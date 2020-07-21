@@ -1,0 +1,231 @@
+0.795904666735605#Park#Home (private)
+1.1097932297980062#Park#Hotel
+2.1520103403499573#Park#Event Space
+0.835798209806663#Park#Pub
+7.36669236105863#Park#Stadium
+0.951575420481653#Park#Office
+1.0312595367784048#Park#Coffee Shop
+1.099300768935759#Park#Plaza
+0.8562522409103471#Park#Gym
+0.8599683740582267#Park#Grocery Store
+1.8846264128779946#Park#Monument / Landmark
+0.9916323118577892#Park#Bar
+1.0548637677113688#Park#History Museum
+1.311267431158788#Park#Department Store
+1.3079488242896582#Park#Scenic Lookout
+1.3097609704556714#Park#Soccer Stadium
+1.5566824037287272#Park#Ramen /  Noodle House
+1.2983999233327088#Park#Theater
+0.7477727252850812#Park#Church
+1.0454027297888533#Park#Farmers Market
+0.7518105673969037#Park#University
+0.5910279054594048#Home (private)#Hotel
+1.149436633593718#Home (private)#Event Space
+0.4478417385535952#Home (private)#Pub
+3.859352214367069#Home (private)#Stadium
+0.505306874081816#Home (private)#Office
+0.5496049515061971#Home (private)#Coffee Shop
+0.5833836844507214#Home (private)#Plaza
+0.45746043788346347#Home (private)#Gym
+0.4644447398603154#Home (private)#Grocery Store
+1.0132984372101008#Home (private)#Monument / Landmark
+0.525462807744531#Home (private)#Bar
+0.5634035833245548#Home (private)#History Museum
+0.7043366909030219#Home (private)#Department Store
+0.7274060623688676#Home (private)#Scenic Lookout
+0.6872604819776603#Home (private)#Soccer Stadium
+0.8273627816986305#Home (private)#Ramen /  Noodle House
+0.6880038280405942#Home (private)#Theater
+0.4073663587826646#Home (private)#Church
+0.557346737251837#Home (private)#Farmers Market
+0.39715447519016556#Home (private)#University
+1.2256658156883675#Hotel#Event Space
+0.46963102635433734#Hotel#Pub
+4.119046854326887#Hotel#Stadium
+0.5362724114511856#Hotel#Office
+0.5821662844080319#Hotel#Coffee Shop
+0.6247270096262862#Hotel#Plaza
+0.47359714924882496#Hotel#Gym
+0.4754077265467172#Hotel#Grocery Store
+1.0651261582329872#Hotel#Monument / Landmark
+0.557492998940256#Hotel#Bar
+0.5972577480917549#Hotel#History Museum
+0.7350253872698655#Hotel#Department Store
+0.713942463625536#Hotel#Scenic Lookout
+0.7350064604273577#Hotel#Soccer Stadium
+0.8825871525896083#Hotel#Ramen /  Noodle House
+0.7250452276947995#Hotel#Theater
+0.42197863987423484#Hotel#Church
+0.5664497211784941#Hotel#Farmers Market
+0.4206225329446686#Hotel#University
+1.4563490296930712#Event Space#Pub
+13.931571211089754#Event Space#Stadium
+1.6813400717258407#Event Space#Office
+1.811064414889371#Event Space#Coffee Shop
+1.9266686100100348#Event Space#Plaza
+1.4765167372018067#Event Space#Gym
+1.4785173821598205#Event Space#Grocery Store
+3.3180933197333666#Event Space#Monument / Landmark
+1.7393300831673308#Event Space#Bar
+1.8567160208477311#Event Space#History Museum
+2.2883597250306305#Event Space#Department Store
+2.3312158531360567#Event Space#Scenic Lookout
+2.4499390033854707#Event Space#Soccer Stadium
+2.73712383415981#Event Space#Ramen /  Noodle House
+2.278009078955446#Event Space#Theater
+1.3091516130286094#Event Space#Church
+1.7790906319166475#Event Space#Farmers Market
+1.301990962177015#Event Space#University
+1.841539784499943#Pub#Stadium
+0.2490483602326493#Pub#Office
+0.27072486536273344#Pub#Coffee Shop
+0.2877986528230722#Pub#Plaza
+0.22178812306590612#Pub#Gym
+0.22375837916594765#Pub#Grocery Store
+0.4829909709260961#Pub#Monument / Landmark
+0.25980727471437387#Pub#Bar
+0.27611541758274355#Pub#History Museum
+0.34370923585586355#Pub#Department Store
+0.3302221137928535#Pub#Scenic Lookout
+0.3339418021384691#Pub#Soccer Stadium
+0.4070767953984883#Pub#Ramen /  Noodle House
+0.339337924197783#Pub#Theater
+0.19743790719923127#Pub#Church
+0.2675150631224352#Pub#Farmers Market
+0.19310870384210904#Pub#University
+12.161824040577777#Stadium#Office
+13.213210616078557#Stadium#Coffee Shop
+14.028269905422482#Stadium#Plaza
+10.734686025508937#Stadium#Gym
+10.87437045812814#Stadium#Grocery Store
+24.588162527220735#Stadium#Monument / Landmark
+12.636522645565407#Stadium#Bar
+13.44463795237016#Stadium#History Museum
+16.72043885726406#Stadium#Department Store
+16.499795995817774#Stadium#Scenic Lookout
+17.296112003507833#Stadium#Soccer Stadium
+19.87960709756125#Stadium#Ramen /  Noodle House
+16.602722871549105#Stadium#Theater
+9.526198552979437#Stadium#Church
+12.9682369859145#Stadium#Farmers Market
+9.434286186680843#Stadium#University
+0.31502147130746166#Office#Coffee Shop
+0.33786318326090137#Office#Plaza
+0.2575456990562775#Office#Gym
+0.25299901643343203#Office#Grocery Store
+0.573802899187564#Office#Monument / Landmark
+0.3023919302590219#Office#Bar
+0.3225365171958645#Office#History Museum
+0.38847920743184267#Office#Department Store
+0.38694806780441027#Office#Scenic Lookout
+0.3994566571847763#Office#Soccer Stadium
+0.480050253687085#Office#Ramen /  Noodle House
+0.39871360452878046#Office#Theater
+0.2295101414907848#Office#Church
+0.3065979723711423#Office#Farmers Market
+0.22676732403616787#Office#University
+0.5498720536643124#Coffee Shop#Plaza
+0.4223263522316709#Coffee Shop#Gym
+0.4249508118602659#Coffee Shop#Grocery Store
+0.9346586177071592#Coffee Shop#Monument / Landmark
+0.4972331019097359#Coffee Shop#Bar
+0.5286973807026312#Coffee Shop#History Museum
+0.6679582241606156#Coffee Shop#Department Store
+0.6434162302801921#Coffee Shop#Scenic Lookout
+0.646074845039639#Coffee Shop#Soccer Stadium
+0.7877135017613784#Coffee Shop#Ramen /  Noodle House
+0.6518495599801357#Coffee Shop#Theater
+0.3759511567587006#Coffee Shop#Church
+0.5089302486183973#Coffee Shop#Farmers Market
+0.3693111795476204#Coffee Shop#University
+2.9424071536155494#Plaza#Gym
+2.965558149798829#Plaza#Grocery Store
+6.595467158634186#Plaza#Monument / Landmark
+3.460028722767689#Plaza#Bar
+3.7055652206096448#Plaza#History Museum
+4.577447621217509#Plaza#Department Store
+4.510584630300685#Plaza#Scenic Lookout
+4.614512870509624#Plaza#Soccer Stadium
+5.4533115603526525#Plaza#Ramen /  Noodle House
+4.532194843298901#Plaza#Theater
+2.6135881960611655#Plaza#Church
+3.5559481585290547#Plaza#Farmers Market
+2.5856095003391544#Plaza#University
+1.4361826068949834#Gym#Grocery Store
+3.150410318475161#Gym#Monument / Landmark
+1.6693288507252546#Gym#Bar
+1.7827452099066285#Gym#History Museum
+2.2105987948783885#Gym#Department Store
+2.171977777110817#Gym#Scenic Lookout
+2.1998179236625646#Gym#Soccer Stadium
+2.6385190724540286#Gym#Ramen /  Noodle House
+2.1895533439982118#Gym#Theater
+1.2709107248333271#Gym#Church
+1.726260239185038#Gym#Farmers Market
+1.24995336164834#Gym#University
+1.2256751500119734#Grocery Store#Monument / Landmark
+0.6550085695306856#Grocery Store#Bar
+0.6977154793645584#Grocery Store#History Museum
+0.8766711271885544#Grocery Store#Department Store
+0.8463656586734184#Grocery Store#Scenic Lookout
+0.8611160736562976#Grocery Store#Soccer Stadium
+1.0268522100772908#Grocery Store#Ramen /  Noodle House
+0.8501825720704094#Grocery Store#Theater
+0.49374754013365557#Grocery Store#Church
+0.6716108456362984#Grocery Store#Farmers Market
+0.4865237825487214#Grocery Store#University
+6.1288550499028105#Monument / Landmark#Bar
+6.562400536073183#Monument / Landmark#History Museum
+8.10562818330308#Monument / Landmark#Department Store
+8.019124750629077#Monument / Landmark#Scenic Lookout
+8.10417258981321#Monument / Landmark#Soccer Stadium
+9.676766092089293#Monument / Landmark#Ramen /  Noodle House
+8.049274271232463#Monument / Landmark#Theater
+4.644154098874023#Monument / Landmark#Church
+6.304493712039348#Monument / Landmark#Farmers Market
+4.590936721094429#Monument / Landmark#University
+0.65970131359897#Bar#History Museum
+0.8127107341633729#Bar#Department Store
+0.7972979533049693#Bar#Scenic Lookout
+0.8151233349243348#Bar#Soccer Stadium
+0.9750679734961997#Bar#Ramen /  Noodle House
+0.8127907934098377#Bar#Theater
+0.4687295595064784#Bar#Church
+0.6383260990403196#Bar#Farmers Market
+0.46431956579774675#Bar#University
+9.773867180661652#History Museum#Department Store
+9.644277930081405#History Museum#Scenic Lookout
+9.745439591708477#History Museum#Soccer Stadium
+11.643780533782259#History Museum#Ramen /  Noodle House
+9.688878115431027#History Museum#Theater
+5.601931167692957#History Museum#Church
+7.606959956808466#History Museum#Farmers Market
+5.567883685651217#History Museum#University
+5.180784109955742#Department Store#Scenic Lookout
+5.214028478344184#Department Store#Soccer Stadium
+6.289265268593899#Department Store#Ramen /  Noodle House
+5.1880396655406225#Department Store#Theater
+3.002134439993041#Department Store#Church
+4.082958345839979#Department Store#Farmers Market
+2.966243630815216#Department Store#University
+10.247376264348004#Scenic Lookout#Soccer Stadium
+12.287806818762451#Scenic Lookout#Ramen /  Noodle House
+10.200092701265348#Scenic Lookout#Theater
+5.897210355852044#Scenic Lookout#Church
+8.020813892566293#Scenic Lookout#Farmers Market
+5.832097073247827#Scenic Lookout#University
+18.754341042902873#Soccer Stadium#Ramen /  Noodle House
+15.588405891576944#Soccer Stadium#Theater
+8.990048342047755#Soccer Stadium#Church
+12.243564900795652#Soccer Stadium#Farmers Market
+8.924452238897647#Soccer Stadium#University
+12.230411865555206#Ramen /  Noodle House#Theater
+7.052261438478501#Ramen /  Noodle House#Church
+9.59539885516597#Ramen /  Noodle House#Farmers Market
+6.981396743166433#Ramen /  Noodle House#University
+2.4775701431242845#Theater#Church
+3.3752199733433867#Theater#Farmers Market
+2.4708564351759#Theater#University
+2.268483932231487#Church#Farmers Market
+1.6583736137540668#Church#University
+6.9764092444372645#Farmers Market#University

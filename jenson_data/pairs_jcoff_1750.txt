@@ -1,0 +1,1750 @@
+0.8199155483801417#Train Station#Subway
+0.6901505813068656#Train Station#Park
+0.5616916188360219#Train Station#Home (private)
+0.7780459742980522#Train Station#Hotel
+1.5106947152378007#Train Station#Event Space
+0.6659053029087172#Train Station#Office
+0.5523753789879935#Train Station#Neighborhood
+0.5921447241155546#Train Station#Pub
+5.14562026841566#Train Station#Stadium
+1.388050631388083#Train Station#General Entertainment
+0.7321167307358578#Train Station#Coffee Shop
+0.8169883323116094#Train Station#Building
+1.1556938685337732#Train Station#Platform
+0.7683685314458155#Train Station#Plaza
+0.600282798493965#Train Station#Gym
+1.0104599046598493#Train Station#Bridge
+0.6118680481655893#Train Station#Grocery Store
+0.7768094827915168#Train Station#Road
+0.5769648617660204#Train Station#Residential Building (Apartment / Condo)
+0.6166702732436611#Train Station#Mall
+1.3030270136896118#Train Station#Monument / Landmark
+0.6704636976413819#Train Station#Cafe
+0.8461452005270113#Train Station#Market
+0.8066245717901167#Train Station#Gay Bar
+0.9560092140669266#Train Station#Clothing Store
+1.3037667518285363#Train Station#Performing Arts Venue
+0.8880744815998657#Train Station#Flea Market
+0.7375415674214943#Train Station#History Museum
+0.9070694810832957#Train Station#Scenic Lookout
+0.9467373241270334#Train Station#Art Museum
+0.695847173006875#Train Station#Bar
+0.9263112132268363#Train Station#Department Store
+0.7505680868954685#Train Station#Bus Line
+1.1389712611692129#Train Station#Music Venue
+0.83659423303834#Train Station#Bus Station
+1.6423007772429965#Train Station#Racetrack
+0.8534192739004405#Train Station#Art Gallery
+1.0214082499131403#Train Station#Train
+2.1266280069123167#Train Station#Athletic & Sport
+0.767001843506357#Train Station#Electronics Store
+0.8110317040220786#Train Station#Fast Food Restaurant
+0.9440266056193521#Train Station#General Travel
+0.9212605141194421#Train Station#Soccer Stadium
+0.6725518938933411#Train Station#Other Great Outdoors
+0.9046719141316061#Train Station#Theater
+0.7192079453259652#Train Station#Italian Restaurant
+0.4199136886602052#Train Station#Airport Terminal
+0.5262499719025729#Train Station#Church
+0.8342095959794982#Train Station#Garden
+2.650157503383446#Train Station#Tennis Court
+0.71050163847255#Train Station#Nightclub
+1.6111272406276622#Train Station#Science Museum
+0.46436469106281086#Train Station#College Residence Hall
+0.7021608630442274#Train Station#Sandwich Place
+1.007474620127397#Train Station#Sporting Goods Shop
+1.6027235501708321#Train Station#Castle
+1.1972138167577902#Train Station#Light Rail
+1.0922855383560264#Train Station#Ramen /  Noodle House
+0.8069020691838541#Train Station#Mexican Restaurant
+0.8628191490894428#Train Station#Movie Theater
+1.0721336384069444#Train Station#Theme Park
+0.717334618571507#Train Station#Farmers Market
+1.88234604979574#Train Station#Pool
+0.5156252892524814#Train Station#University
+0.7462879257258438#Train Station#Cupcake Shop
+2.643285471020927#Subway#Park
+2.13201317783999#Subway#Home (private)
+3.0303125349286675#Subway#Hotel
+5.843898098861658#Subway#Event Space
+2.5904747833743116#Subway#Office
+2.12485913996572#Subway#Neighborhood
+2.268490048272856#Subway#Pub
+19.843896666593974#Subway#Stadium
+5.397850625681838#Subway#General Entertainment
+2.806900534726143#Subway#Coffee Shop
+3.1455114303293406#Subway#Building
+4.393200785876758#Subway#Platform
+3.0062770190395582#Subway#Plaza
+2.314947038370812#Subway#Gym
+3.912537114365756#Subway#Bridge
+2.31928223254995#Subway#Grocery Store
+2.848023172383456#Subway#Road
+2.2502186418597225#Subway#Residential Building (Apartment / Condo)
+2.364531101272501#Subway#Mall
+5.095916118551868#Subway#Monument / Landmark
+2.4966539708247946#Subway#Cafe
+3.322285734058739#Subway#Market
+3.152375500232423#Subway#Gay Bar
+3.6978617683534556#Subway#Clothing Store
+4.991518429892715#Subway#Performing Arts Venue
+3.431051474417807#Subway#Flea Market
+2.872998404144325#Subway#History Museum
+3.525981245554748#Subway#Scenic Lookout
+3.7056726352179363#Subway#Art Museum
+2.693976993302854#Subway#Bar
+3.567512474394694#Subway#Department Store
+2.8787043246217796#Subway#Bus Line
+4.437446063014576#Subway#Music Venue
+3.2430261211548874#Subway#Bus Station
+6.4193834329039055#Subway#Racetrack
+3.3204623809470437#Subway#Art Gallery
+3.9366645978088304#Subway#Train
+7.879594218271337#Subway#Athletic & Sport
+2.9634390435072118#Subway#Electronics Store
+3.107092679326541#Subway#Fast Food Restaurant
+3.576124243648404#Subway#General Travel
+3.54920769395083#Subway#Soccer Stadium
+2.582831746985851#Subway#Other Great Outdoors
+3.52378050546893#Subway#Theater
+2.7957372978495436#Subway#Italian Restaurant
+1.633358192458718#Subway#Airport Terminal
+2.0360363314253616#Subway#Church
+3.1417721865904467#Subway#Garden
+10.388874749225932#Subway#Tennis Court
+2.772247979228349#Subway#Nightclub
+6.311168452507692#Subway#Science Museum
+1.8033910005361002#Subway#College Residence Hall
+2.729586247076392#Subway#Sandwich Place
+3.9015244118049033#Subway#Sporting Goods Shop
+6.2496053071629145#Subway#Castle
+4.569285619766945#Subway#Light Rail
+4.246861281001905#Subway#Ramen /  Noodle House
+3.14577533539125#Subway#Mexican Restaurant
+3.3476973010028774#Subway#Movie Theater
+4.188968067103581#Subway#Theme Park
+2.7736964870682677#Subway#Farmers Market
+7.299747473421554#Subway#Pool
+2.016951986802507#Subway#University
+2.9121350142302#Subway#Cupcake Shop
+0.780020860317164#Park#Neighborhood
+1.9984503609656339#Park#General Entertainment
+1.1560965690114224#Park#Building
+1.605095618415605#Park#Platform
+1.4563364540779828#Park#Bridge
+1.0579543444901973#Park#Road
+0.8305813246379828#Park#Residential Building (Apartment / Condo)
+0.8698960608466958#Park#Mall
+0.9211066522193457#Park#Cafe
+1.2165714724199643#Park#Market
+1.1661022851886793#Park#Gay Bar
+1.3550685042786037#Park#Clothing Store
+1.8374345675537653#Park#Performing Arts Venue
+1.2591145705267908#Park#Flea Market
+1.3582156354571984#Park#Art Museum
+1.0683692871494685#Park#Bus Line
+1.6643540742334544#Park#Music Venue
+1.2067603617805016#Park#Bus Station
+2.3584984991758757#Park#Racetrack
+1.2248986744334218#Park#Art Gallery
+1.4423561480240064#Park#Train
+2.952944724579865#Park#Athletic & Sport
+1.0812836122784504#Park#Electronics Store
+1.1444019768764409#Park#Fast Food Restaurant
+1.3215558006816504#Park#General Travel
+0.964079321482602#Park#Other Great Outdoors
+1.0287200874574922#Park#Italian Restaurant
+0.5983950968756677#Park#Airport Terminal
+1.1727656848911676#Park#Garden
+3.8145110196925347#Park#Tennis Court
+1.017660471177719#Park#Nightclub
+2.3144700912330314#Park#Science Museum
+0.6668800464672168#Park#College Residence Hall
+0.9999055152968158#Park#Sandwich Place
+1.435338320958144#Park#Sporting Goods Shop
+2.313748461965624#Park#Castle
+1.688716062711208#Park#Light Rail
+1.1542308804111305#Park#Mexican Restaurant
+1.228286960489982#Park#Movie Theater
+1.5364232116762526#Park#Theme Park
+2.7252675103999393#Park#Pool
+1.071932635261666#Park#Cupcake Shop
+0.4216242942976609#Home (private)#Neighborhood
+1.0583548110248095#Home (private)#General Entertainment
+0.6417188702326082#Home (private)#Building
+0.8583814321908576#Home (private)#Platform
+0.7819609027644927#Home (private)#Bridge
+0.5919040198834074#Home (private)#Road
+0.4498810571390402#Home (private)#Residential Building (Apartment / Condo)
+0.46390428746658635#Home (private)#Mall
+0.4934827665712398#Home (private)#Cafe
+0.6547149149868933#Home (private)#Market
+0.6164722182190191#Home (private)#Gay Bar
+0.7219869044368527#Home (private)#Clothing Store
+0.9734354851715991#Home (private)#Performing Arts Venue
+0.6894938863347023#Home (private)#Flea Market
+0.7228209107072562#Home (private)#Art Museum
+0.5742055279256804#Home (private)#Bus Line
+0.8675552094386744#Home (private)#Music Venue
+0.6435679106815645#Home (private)#Bus Station
+1.2562265722664783#Home (private)#Racetrack
+0.6491257478197984#Home (private)#Art Gallery
+0.767996457358295#Home (private)#Train
+1.615637989247371#Home (private)#Athletic & Sport
+0.5759323912046261#Home (private)#Electronics Store
+0.6115092003530604#Home (private)#Fast Food Restaurant
+0.7117199812605908#Home (private)#General Travel
+0.5349277606595049#Home (private)#Other Great Outdoors
+0.5475641687468447#Home (private)#Italian Restaurant
+0.3173749823619583#Home (private)#Airport Terminal
+0.6273622656647648#Home (private)#Garden
+2.0253781022285735#Home (private)#Tennis Court
+0.54295279492326#Home (private)#Nightclub
+1.2484578717635761#Home (private)#Science Museum
+0.35993568807476206#Home (private)#College Residence Hall
+0.5313502705248193#Home (private)#Sandwich Place
+0.7622084429761795#Home (private)#Sporting Goods Shop
+1.22431322411063#Home (private)#Castle
+0.9656911394655411#Home (private)#Light Rail
+0.6120469257419323#Home (private)#Mexican Restaurant
+0.6512272285276896#Home (private)#Movie Theater
+0.8157976206862093#Home (private)#Theme Park
+1.4218671685114166#Home (private)#Pool
+0.567616260844683#Home (private)#Cupcake Shop
+0.43887205736575646#Hotel#Neighborhood
+1.1165649911245075#Hotel#General Entertainment
+0.6497649849343851#Hotel#Building
+0.9339050017942122#Hotel#Platform
+0.8159407812753025#Hotel#Bridge
+0.5893554966730611#Hotel#Road
+0.4754493470367085#Hotel#Residential Building (Apartment / Condo)
+0.487054981324092#Hotel#Mall
+0.5158451910266142#Hotel#Cafe
+0.677298107695709#Hotel#Market
+0.6490569482674027#Hotel#Gay Bar
+0.7600757911233882#Hotel#Clothing Store
+1.038665051137937#Hotel#Performing Arts Venue
+0.7067223800166729#Hotel#Flea Market
+0.7714207981631013#Hotel#Art Museum
+0.5945364708273908#Hotel#Bus Line
+0.9131690757481243#Hotel#Music Venue
+0.6685657847879273#Hotel#Bus Station
+1.3059087586119087#Hotel#Racetrack
+0.686781077170476#Hotel#Art Gallery
+0.8359656006435797#Hotel#Train
+1.637229949186078#Hotel#Athletic & Sport
+0.6158908389702673#Hotel#Electronics Store
+0.642878378542585#Hotel#Fast Food Restaurant
+0.7410713697392994#Hotel#General Travel
+0.5299525694603247#Hotel#Other Great Outdoors
+0.5833034266759369#Hotel#Italian Restaurant
+0.3322818716596777#Hotel#Airport Terminal
+0.6639321072156448#Hotel#Garden
+2.1014319274459927#Hotel#Tennis Court
+0.572355353833495#Hotel#Nightclub
+1.3625074002856423#Hotel#Science Museum
+0.3805331423883457#Hotel#College Residence Hall
+0.5694977427252218#Hotel#Sandwich Place
+0.7986188937472164#Hotel#Sporting Goods Shop
+1.321243760334413#Hotel#Castle
+0.9281638759728038#Hotel#Light Rail
+0.6457887393540319#Hotel#Mexican Restaurant
+0.6842119224688756#Hotel#Movie Theater
+0.8788157639495697#Hotel#Theme Park
+1.4827890859151052#Hotel#Pool
+0.6147661840993575#Hotel#Cupcake Shop
+1.3613668048441758#Event Space#Neighborhood
+3.6442158426701696#Event Space#General Entertainment
+2.0641399641419897#Event Space#Building
+2.81242319820513#Event Space#Platform
+2.5625042068238644#Event Space#Bridge
+1.831960251639362#Event Space#Road
+1.455181289410442#Event Space#Residential Building (Apartment / Condo)
+1.5178907652780058#Event Space#Mall
+1.6024512799669774#Event Space#Cafe
+2.138608329238993#Event Space#Market
+2.023553502482463#Event Space#Gay Bar
+2.3755659876079696#Event Space#Clothing Store
+3.3840459579268973#Event Space#Performing Arts Venue
+2.2031931171558807#Event Space#Flea Market
+2.394157547314527#Event Space#Art Museum
+1.8497916273249626#Event Space#Bus Line
+2.9730389996397037#Event Space#Music Venue
+2.069247427566649#Event Space#Bus Station
+4.438725583341208#Event Space#Racetrack
+2.1618185951263835#Event Space#Art Gallery
+2.5227142506582854#Event Space#Train
+5.189497843705915#Event Space#Athletic & Sport
+1.9294979265319467#Event Space#Electronics Store
+2.007156561218949#Event Space#Fast Food Restaurant
+2.2902309967159047#Event Space#General Travel
+1.6623577253233681#Event Space#Other Great Outdoors
+1.8064822398482194#Event Space#Italian Restaurant
+1.050348009081653#Event Space#Airport Terminal
+2.031173866731183#Event Space#Garden
+6.991232028063401#Event Space#Tennis Court
+1.7746908783496875#Event Space#Nightclub
+4.117148335724877#Event Space#Science Museum
+1.1630966732210468#Event Space#College Residence Hall
+1.7698749498363338#Event Space#Sandwich Place
+2.549825466909388#Event Space#Sporting Goods Shop
+4.077967944101757#Event Space#Castle
+2.930512968453799#Event Space#Light Rail
+2.0247650548914002#Event Space#Mexican Restaurant
+2.198218674424305#Event Space#Movie Theater
+2.685432744716352#Event Space#Theme Park
+4.8271721590680485#Event Space#Pool
+1.8706157843978861#Event Space#Cupcake Shop
+0.23245756202222284#Office#Neighborhood
+0.252856605521196#Office#Pub
+2.168679231064718#Office#Stadium
+0.5988330736900248#Office#General Entertainment
+0.3525007458163886#Office#Building
+0.487778942928534#Office#Platform
+0.4399182527547402#Office#Bridge
+0.31289317658262694#Office#Road
+0.24493714864235974#Office#Residential Building (Apartment / Condo)
+0.2644331129395877#Office#Mall
+0.27739205563552444#Office#Cafe
+0.3755831520892091#Office#Market
+0.35878045124519164#Office#Gay Bar
+0.40726749348188424#Office#Clothing Store
+0.5668446926668386#Office#Performing Arts Venue
+0.378932478414069#Office#Flea Market
+0.4252861930464147#Office#Art Museum
+0.3165432710421035#Office#Bus Line
+0.4865530104768038#Office#Music Venue
+0.3530145673764357#Office#Bus Station
+0.7007434110511503#Office#Racetrack
+0.37807920269221634#Office#Art Gallery
+0.4340811247753425#Office#Train
+0.8494460413086444#Office#Athletic & Sport
+0.3232027643392562#Office#Electronics Store
+0.3404786779155143#Office#Fast Food Restaurant
+0.386714985425538#Office#General Travel
+0.27880027861841294#Office#Other Great Outdoors
+0.3127167346303458#Office#Italian Restaurant
+0.1760060087965705#Office#Airport Terminal
+0.3456825258182898#Office#Garden
+1.1049473478426006#Office#Tennis Court
+0.3120134912334052#Office#Nightclub
+0.6830482945200783#Office#Science Museum
+0.20274611423570327#Office#College Residence Hall
+0.3134270676077902#Office#Sandwich Place
+0.4292706245234339#Office#Sporting Goods Shop
+0.739595521506143#Office#Castle
+0.49040952440471663#Office#Light Rail
+0.3494633678433334#Office#Mexican Restaurant
+0.37808712285415147#Office#Movie Theater
+0.4623732454057804#Office#Theme Park
+0.7795235742937231#Office#Pool
+0.32250837607110805#Office#Cupcake Shop
+1.3188109308873384#Neighborhood#Pub
+11.53572962969472#Neighborhood#Stadium
+3.133926608124332#Neighborhood#General Entertainment
+1.6316323907074302#Neighborhood#Coffee Shop
+1.8213952803045625#Neighborhood#Building
+2.542250351515239#Neighborhood#Platform
+1.732435994362777#Neighborhood#Plaza
+1.330919170041439#Neighborhood#Gym
+2.265306524783344#Neighborhood#Bridge
+1.3449569775151418#Neighborhood#Grocery Store
+1.6544455277672547#Neighborhood#Road
+1.2943561753031547#Neighborhood#Residential Building (Apartment / Condo)
+1.378352985486481#Neighborhood#Mall
+2.9482266956435006#Neighborhood#Monument / Landmark
+1.4486717147990076#Neighborhood#Cafe
+1.9347470240308635#Neighborhood#Market
+1.828693308154585#Neighborhood#Gay Bar
+2.148586866853593#Neighborhood#Clothing Store
+2.9029247701773384#Neighborhood#Performing Arts Venue
+2.012295805408019#Neighborhood#Flea Market
+1.6706565097429575#Neighborhood#History Museum
+2.04024770600241#Neighborhood#Scenic Lookout
+2.1458518567210727#Neighborhood#Art Museum
+1.5644362140844386#Neighborhood#Bar
+2.08474769962616#Neighborhood#Department Store
+1.6684211693487483#Neighborhood#Bus Line
+2.574217459724298#Neighborhood#Music Venue
+1.8740253816153627#Neighborhood#Bus Station
+3.7781752920280294#Neighborhood#Racetrack
+1.9304739388350296#Neighborhood#Art Gallery
+2.8912496004641017#Neighborhood#Train
+4.5723251915500125#Neighborhood#Athletic & Sport
+1.714962859020608#Neighborhood#Electronics Store
+1.795636696639081#Neighborhood#Fast Food Restaurant
+2.0711579477866437#Neighborhood#General Travel
+2.063048256959882#Neighborhood#Soccer Stadium
+1.4932889006226178#Neighborhood#Other Great Outdoors
+2.0464678258304874#Neighborhood#Theater
+1.6246540007234638#Neighborhood#Italian Restaurant
+0.9474377057026849#Neighborhood#Airport Terminal
+1.1883595004484162#Neighborhood#Church
+1.8221920727772503#Neighborhood#Garden
+6.010702403264187#Neighborhood#Tennis Court
+1.6130797459239656#Neighborhood#Nightclub
+3.661355327903415#Neighborhood#Science Museum
+1.0470631775000554#Neighborhood#College Residence Hall
+1.5811760476704237#Neighborhood#Sandwich Place
+2.26337608775543#Neighborhood#Sporting Goods Shop
+3.622213331648263#Neighborhood#Castle
+2.6304941446792376#Neighborhood#Light Rail
+2.4636741708048198#Neighborhood#Ramen /  Noodle House
+1.8358955643853159#Neighborhood#Mexican Restaurant
+1.949455162955552#Neighborhood#Movie Theater
+2.431889253461914#Neighborhood#Theme Park
+1.615523684408619#Neighborhood#Farmers Market
+4.246355692329973#Neighborhood#Pool
+1.170932543782108#Neighborhood#University
+1.6895736837846416#Neighborhood#Cupcake Shop
+0.5128217047856394#Pub#General Entertainment
+0.29662144631508786#Pub#Building
+0.4182808394420947#Pub#Platform
+0.38182806884235726#Pub#Bridge
+0.27618812148036037#Pub#Road
+0.21270925552486378#Pub#Residential Building (Apartment / Condo)
+0.22722932638321855#Pub#Mall
+0.24002142815210736#Pub#Cafe
+0.323915633906636#Pub#Market
+0.30494490628243126#Pub#Gay Bar
+0.35200758063154863#Pub#Clothing Store
+0.4680663002443596#Pub#Performing Arts Venue
+0.3327143483997141#Pub#Flea Market
+0.35379831087041136#Pub#Art Museum
+0.27510374458495096#Pub#Bus Line
+0.4399645522649584#Pub#Music Venue
+0.3065933328673068#Pub#Bus Station
+0.5915813755047982#Pub#Racetrack
+0.3173422679694427#Pub#Art Gallery
+0.3727926122889719#Pub#Train
+0.7415649966066316#Pub#Athletic & Sport
+0.28120665059913663#Pub#Electronics Store
+0.29660179376734874#Pub#Fast Food Restaurant
+0.3422295459478346#Pub#General Travel
+0.24515026598244596#Pub#Other Great Outdoors
+0.2694743711963938#Pub#Italian Restaurant
+0.15324843410788233#Pub#Airport Terminal
+0.29742711371748165#Pub#Garden
+0.9545780779586238#Pub#Tennis Court
+0.267416084638462#Pub#Nightclub
+0.5902085276603293#Pub#Science Museum
+0.17432573013899#Pub#College Residence Hall
+0.26228221338443747#Pub#Sandwich Place
+0.3689914363879282#Pub#Sporting Goods Shop
+0.598228361366153#Pub#Castle
+0.42195813781411207#Pub#Light Rail
+0.3020244583537611#Pub#Mexican Restaurant
+0.31824572381098903#Pub#Movie Theater
+0.38940064407465214#Pub#Theme Park
+0.6759705048164532#Pub#Pool
+0.27711530841117266#Pub#Cupcake Shop
+26.13744534935536#Stadium#General Entertainment
+15.07258864780746#Stadium#Building
+20.469199845085864#Stadium#Platform
+18.525920343805815#Stadium#Bridge
+13.323403113189235#Stadium#Road
+10.536650474259813#Stadium#Residential Building (Apartment / Condo)
+11.070226821826761#Stadium#Mall
+11.71195718109141#Stadium#Cafe
+15.49459907379204#Stadium#Market
+14.755104775391079#Stadium#Gay Bar
+17.324368254140765#Stadium#Clothing Store
+24.095898442741607#Stadium#Performing Arts Venue
+16.07211548841272#Stadium#Flea Market
+17.348932041230935#Stadium#Art Museum
+13.527088984777532#Stadium#Bus Line
+21.185185088435176#Stadium#Music Venue
+15.100189223931137#Stadium#Bus Station
+33.576543507169255#Stadium#Racetrack
+15.83191907921565#Stadium#Art Gallery
+18.390908194841696#Stadium#Train
+38.770916718000905#Stadium#Athletic & Sport
+13.96151919486783#Stadium#Electronics Store
+14.827710377207998#Stadium#Fast Food Restaurant
+16.71145648171306#Stadium#General Travel
+12.101107876115993#Stadium#Other Great Outdoors
+13.1325507778267#Stadium#Italian Restaurant
+7.669614093077892#Stadium#Airport Terminal
+15.167157052521647#Stadium#Garden
+48.614000296363706#Stadium#Tennis Court
+12.933674839765269#Stadium#Nightclub
+29.639597949722138#Stadium#Science Museum
+8.445158437105297#Stadium#College Residence Hall
+12.81128387567933#Stadium#Sandwich Place
+18.83562342115451#Stadium#Sporting Goods Shop
+29.26952802301842#Stadium#Castle
+21.284473747860236#Stadium#Light Rail
+14.759496108296437#Stadium#Mexican Restaurant
+15.929436200753306#Stadium#Movie Theater
+19.654625766559363#Stadium#Theme Park
+39.19015396027289#Stadium#Pool
+13.617315486493936#Stadium#Cupcake Shop
+2.4202176465913405#General Entertainment#Coffee Shop
+2.7556913206599054#General Entertainment#Building
+3.767815919038421#General Entertainment#Platform
+2.6044983867095017#General Entertainment#Plaza
+1.9767163325451929#General Entertainment#Gym
+3.3974311613694805#General Entertainment#Bridge
+1.9879814348933258#General Entertainment#Grocery Store
+2.4574595441072895#General Entertainment#Road
+1.926313269495313#General Entertainment#Residential Building (Apartment / Condo)
+2.0353930276005268#General Entertainment#Mall
+4.452584390697154#General Entertainment#Monument / Landmark
+2.149566514259667#General Entertainment#Cafe
+2.868144996497992#General Entertainment#Market
+2.7217885725129127#General Entertainment#Gay Bar
+3.1829689117790623#General Entertainment#Clothing Store
+4.5037842584762995#General Entertainment#Performing Arts Venue
+2.978357852287124#General Entertainment#Flea Market
+2.4815321834543145#General Entertainment#History Museum
+3.0209924750728376#General Entertainment#Scenic Lookout
+3.203169204966102#General Entertainment#Art Museum
+2.3255571155743384#General Entertainment#Bar
+3.0746158658536684#General Entertainment#Department Store
+2.4806208513917167#General Entertainment#Bus Line
+4.073986840734521#General Entertainment#Music Venue
+2.779290398213893#General Entertainment#Bus Station
+6.007875228924747#General Entertainment#Racetrack
+2.883802577206439#General Entertainment#Art Gallery
+3.3756297012636254#General Entertainment#Train
+6.910798856198358#General Entertainment#Athletic & Sport
+2.548224439137533#General Entertainment#Electronics Store
+2.6842171538592683#General Entertainment#Fast Food Restaurant
+3.0681588734892156#General Entertainment#General Travel
+3.2770989737471434#General Entertainment#Soccer Stadium
+2.220967674745698#General Entertainment#Other Great Outdoors
+3.0564760820900543#General Entertainment#Theater
+2.4125090944608996#General Entertainment#Italian Restaurant
+1.4031436412864475#General Entertainment#Airport Terminal
+1.7573716821837542#General Entertainment#Church
+2.720133527438666#General Entertainment#Garden
+8.891383447182381#General Entertainment#Tennis Court
+2.379530708235162#General Entertainment#Nightclub
+5.449343550572933#General Entertainment#Science Museum
+1.5540866957019714#General Entertainment#College Residence Hall
+2.3521642897043793#General Entertainment#Sandwich Place
+3.3853279148858237#General Entertainment#Sporting Goods Shop
+5.4245211837097616#General Entertainment#Castle
+3.9009968366479004#General Entertainment#Light Rail
+3.6697124675724786#General Entertainment#Ramen /  Noodle House
+2.719948196577883#General Entertainment#Mexican Restaurant
+2.9319953814008435#General Entertainment#Movie Theater
+3.611799703379672#General Entertainment#Theme Park
+2.446759176640348#General Entertainment#Farmers Market
+6.471670836770258#General Entertainment#Pool
+1.7432719757319315#General Entertainment#University
+2.5008665734387083#General Entertainment#Cupcake Shop
+0.5757447455528928#Coffee Shop#Building
+0.8095007974116251#Coffee Shop#Platform
+0.7166139661615385#Coffee Shop#Bridge
+0.5197235265535721#Coffee Shop#Road
+0.40781106861061606#Coffee Shop#Residential Building (Apartment / Condo)
+0.4420949343834128#Coffee Shop#Mall
+0.4596753610800829#Coffee Shop#Cafe
+0.6138514996370067#Coffee Shop#Market
+0.5791596733868908#Coffee Shop#Gay Bar
+0.6878214031591351#Coffee Shop#Clothing Store
+0.9142523534734277#Coffee Shop#Performing Arts Venue
+0.6393411070054977#Coffee Shop#Flea Market
+0.6812622419005318#Coffee Shop#Art Museum
+0.522610843876486#Coffee Shop#Bus Line
+0.8069599705755208#Coffee Shop#Music Venue
+0.59096219913645#Coffee Shop#Bus Station
+1.1727039397832908#Coffee Shop#Racetrack
+0.6127638111686549#Coffee Shop#Art Gallery
+0.7260092375996134#Coffee Shop#Train
+1.4570091541807926#Coffee Shop#Athletic & Sport
+0.5468455608864218#Coffee Shop#Electronics Store
+0.5713346902407064#Coffee Shop#Fast Food Restaurant
+0.6538644964686152#Coffee Shop#General Travel
+0.46911795604660844#Coffee Shop#Other Great Outdoors
+0.5176898488868148#Coffee Shop#Italian Restaurant
+0.3049726797490595#Coffee Shop#Airport Terminal
+0.5800191403648461#Coffee Shop#Garden
+1.86048733629889#Coffee Shop#Tennis Court
+0.5110085723637755#Coffee Shop#Nightclub
+1.144349014981217#Coffee Shop#Science Museum
+0.3318395205319767#Coffee Shop#College Residence Hall
+0.504255139288337#Coffee Shop#Sandwich Place
+0.7232616684607134#Coffee Shop#Sporting Goods Shop
+1.1548704871257904#Coffee Shop#Castle
+0.8213753687322222#Coffee Shop#Light Rail
+0.5845043429182645#Coffee Shop#Mexican Restaurant
+0.6192904425871851#Coffee Shop#Movie Theater
+0.7803768070357316#Coffee Shop#Theme Park
+1.3579923138184937#Coffee Shop#Pool
+0.5421243049558965#Coffee Shop#Cupcake Shop
+1.4411888834668893#Building#Platform
+0.9912837943903395#Building#Plaza
+0.7566401282082937#Building#Gym
+1.2903235881280235#Building#Bridge
+0.7664775232265544#Building#Grocery Store
+0.9483632974608177#Building#Road
+0.7415915082075956#Building#Residential Building (Apartment / Condo)
+0.7763977534108562#Building#Mall
+1.699708012374016#Building#Monument / Landmark
+0.8205042053089279#Building#Cafe
+1.0952006070427576#Building#Market
+1.0367615405540316#Building#Gay Bar
+1.2149402567651475#Building#Clothing Store
+1.7108774526359352#Building#Performing Arts Venue
+1.1245789711533367#Building#Flea Market
+0.947222202261521#Building#History Museum
+1.1668312205185833#Building#Scenic Lookout
+1.2218822962298914#Building#Art Museum
+0.8874375910810954#Building#Bar
+1.1676853026698297#Building#Department Store
+0.9439450391928074#Building#Bus Line
+1.4896751582948962#Building#Music Venue
+1.0623774415058929#Building#Bus Station
+2.2916131315472055#Building#Racetrack
+1.1023081039280953#Building#Art Gallery
+1.2915613423335062#Building#Train
+2.622959485613607#Building#Athletic & Sport
+0.9688078364434577#Building#Electronics Store
+1.0247214352215734#Building#Fast Food Restaurant
+1.1658576431950154#Building#General Travel
+1.2181875548460162#Building#Soccer Stadium
+0.8582060661691476#Building#Other Great Outdoors
+1.1639508247694017#Building#Theater
+0.9187707570408483#Building#Italian Restaurant
+0.5393689459602721#Building#Airport Terminal
+0.670272164922674#Building#Church
+1.0384390841603683#Building#Garden
+3.5670510017641286#Building#Tennis Court
+0.9087910813165435#Building#Nightclub
+2.0809319748333297#Building#Science Museum
+0.5977666208573683#Building#College Residence Hall
+0.8997506347096662#Building#Sandwich Place
+1.305174601532149#Building#Sporting Goods Shop
+2.0692456372338053#Building#Castle
+1.4848829015101936#Building#Light Rail
+1.3958079800183656#Building#Ramen /  Noodle House
+1.0329278935728907#Building#Mexican Restaurant
+1.1069660488703963#Building#Movie Theater
+1.3679889625440693#Building#Theme Park
+0.9083104249064475#Building#Farmers Market
+2.4925098424952203#Building#Pool
+0.6650894854246948#Building#University
+0.9546016091186053#Building#Cupcake Shop
+2.363058527806745#Platform#Plaza
+1.818566278435951#Platform#Gym
+3.1109291118804863#Platform#Bridge
+1.82156797217621#Platform#Grocery Store
+2.2385967560592417#Platform#Road
+1.7595744305206338#Platform#Residential Building (Apartment / Condo)
+1.8727607430802964#Platform#Mall
+4.0161549409858335#Platform#Monument / Landmark
+1.9746276654478616#Platform#Cafe
+2.605995871744927#Platform#Market
+2.4796485751763337#Platform#Gay Bar
+2.9228656908449233#Platform#Clothing Store
+3.967421746762907#Platform#Performing Arts Venue
+2.6987403286345995#Platform#Flea Market
+2.2599498060693723#Platform#History Museum
+2.7678338658896275#Platform#Scenic Lookout
+2.92255230974471#Platform#Art Museum
+2.126592913095308#Platform#Bar
+2.813442555004308#Platform#Department Store
+2.2837798778820804#Platform#Bus Line
+3.4881464195988805#Platform#Music Venue
+2.561213243491116#Platform#Bus Station
+5.0495474075724935#Platform#Racetrack
+2.624269399942802#Platform#Art Gallery
+3.1962038012461957#Platform#Train
+6.205703277295207#Platform#Athletic & Sport
+2.331997836139386#Platform#Electronics Store
+2.4511759048446495#Platform#Fast Food Restaurant
+2.851748345811232#Platform#General Travel
+2.7784559990606494#Platform#Soccer Stadium
+2.0380667349474084#Platform#Other Great Outdoors
+2.786707501133955#Platform#Theater
+2.211474478570587#Platform#Italian Restaurant
+1.283382334482204#Platform#Airport Terminal
+1.6084511221212894#Platform#Church
+2.488029878138268#Platform#Garden
+8.135018796303255#Platform#Tennis Court
+2.1755191946333094#Platform#Nightclub
+4.987764502889816#Platform#Science Museum
+1.42915758987625#Platform#College Residence Hall
+2.16480430995071#Platform#Sandwich Place
+3.08261764967307#Platform#Sporting Goods Shop
+4.933920588939249#Platform#Castle
+3.719456777129954#Platform#Light Rail
+3.3791709421817293#Platform#Ramen /  Noodle House
+2.4818653637451016#Platform#Mexican Restaurant
+2.634415514563345#Platform#Movie Theater
+3.2895415240943198#Platform#Theme Park
+2.1956306354927753#Platform#Farmers Market
+5.75365469208646#Platform#Pool
+1.5921414700145815#Platform#University
+2.3052853186307005#Platform#Cupcake Shop
+5.030175826956524#Plaza#Bridge
+3.6475335906378548#Plaza#Road
+2.869196119784402#Plaza#Residential Building (Apartment / Condo)
+3.042956452263504#Plaza#Mall
+3.2005811225037304#Plaza#Cafe
+4.241168048874705#Plaza#Market
+4.049022977369023#Plaza#Gay Bar
+4.749471866511856#Plaza#Clothing Store
+6.433406728102001#Plaza#Performing Arts Venue
+4.411015290128346#Plaza#Flea Market
+4.769844337867049#Plaza#Art Museum
+3.6879614519288#Plaza#Bus Line
+5.704615827191279#Plaza#Music Venue
+4.142097132451373#Plaza#Bus Station
+8.235126110967931#Plaza#Racetrack
+4.267861567455757#Plaza#Art Gallery
+5.041099570045588#Plaza#Train
+10.193789875798648#Plaza#Athletic & Sport
+3.8076662585324366#Plaza#Electronics Store
+3.9758011706159113#Plaza#Fast Food Restaurant
+4.571500348426678#Plaza#General Travel
+3.308747153759767#Plaza#Other Great Outdoors
+3.591290813949889#Plaza#Italian Restaurant
+2.09805229195835#Plaza#Airport Terminal
+4.026523786580197#Plaza#Garden
+13.288257169581648#Plaza#Tennis Court
+3.5490729591592687#Plaza#Nightclub
+8.077489215756573#Plaza#Science Museum
+2.3112271539800564#Plaza#College Residence Hall
+3.5075422752278156#Plaza#Sandwich Place
+5.015175893006455#Plaza#Sporting Goods Shop
+8.10105038119887#Plaza#Castle
+5.808367327854815#Plaza#Light Rail
+4.039558241882032#Plaza#Mexican Restaurant
+4.290431836516603#Plaza#Movie Theater
+5.3779699118985#Plaza#Theme Park
+9.375742947252311#Plaza#Pool
+3.730089033557125#Plaza#Cupcake Shop
+2.424176203005939#Gym#Bridge
+1.7712216409360675#Gym#Road
+1.3849034929046211#Gym#Residential Building (Apartment / Condo)
+1.4684822701025706#Gym#Mall
+1.548169742435023#Gym#Cafe
+2.0609146196456565#Gym#Market
+1.9600724596577364#Gym#Gay Bar
+2.293990335045706#Gym#Clothing Store
+3.088915969887028#Gym#Performing Arts Venue
+2.126562667438345#Gym#Flea Market
+2.2975689966281143#Gym#Art Museum
+1.7862047592537957#Gym#Bus Line
+2.754682189466105#Gym#Music Venue
+2.001486450374659#Gym#Bus Station
+3.99245784883671#Gym#Racetrack
+2.0604521052405578#Gym#Art Gallery
+2.439404582118587#Gym#Train
+4.874733785750231#Gym#Athletic & Sport
+1.8291420222756636#Gym#Electronics Store
+1.9162685102107642#Gym#Fast Food Restaurant
+2.2063007853128336#Gym#General Travel
+1.5928127896352509#Gym#Other Great Outdoors
+1.73483913980744#Gym#Italian Restaurant
+1.011515393691209#Gym#Airport Terminal
+1.9424333141635006#Gym#Garden
+6.407305925904556#Gym#Tennis Court
+1.7177710621671352#Gym#Nightclub
+3.9075446087554955#Gym#Science Museum
+1.117468265188941#Gym#College Residence Hall
+1.6926697833509117#Gym#Sandwich Place
+2.4242348629226216#Gym#Sporting Goods Shop
+3.8753446710196795#Gym#Castle
+2.8043278406826726#Gym#Light Rail
+1.951638048891041#Gym#Mexican Restaurant
+2.0721812308860343#Gym#Movie Theater
+2.5927544885259595#Gym#Theme Park
+4.532831105498127#Gym#Pool
+1.803795949980062#Gym#Cupcake Shop
+6.807572325380573#Bridge#Grocery Store
+8.390888662709113#Bridge#Road
+6.574876866156696#Bridge#Residential Building (Apartment / Condo)
+6.968145969797435#Bridge#Mall
+15.107940137411319#Bridge#Monument / Landmark
+7.353641715873212#Bridge#Cafe
+9.775886726695862#Bridge#Market
+9.330303855086164#Bridge#Gay Bar
+10.895339952084045#Bridge#Clothing Store
+14.758621083481039#Bridge#Performing Arts Venue
+10.133925303600945#Bridge#Flea Market
+8.479776068926077#Bridge#History Museum
+10.37182166226067#Bridge#Scenic Lookout
+10.97601947530569#Bridge#Art Museum
+7.934488658104138#Bridge#Bar
+10.501956972446642#Bridge#Department Store
+8.482773388062272#Bridge#Bus Line
+13.0804660007336#Bridge#Music Venue
+9.51767576820379#Bridge#Bus Station
+18.956633469084426#Bridge#Racetrack
+9.811287608534775#Bridge#Art Gallery
+11.595198412371166#Bridge#Train
+23.30225266621411#Bridge#Athletic & Sport
+8.701501121601707#Bridge#Electronics Store
+9.110219249995177#Bridge#Fast Food Restaurant
+10.514705417988099#Bridge#General Travel
+10.43745564614086#Bridge#Soccer Stadium
+7.610303544649827#Bridge#Other Great Outdoors
+10.413077024882957#Bridge#Theater
+8.249526396847509#Bridge#Italian Restaurant
+4.825566964680635#Bridge#Airport Terminal
+6.014198430041274#Bridge#Church
+9.258637887233181#Bridge#Garden
+30.587501724094633#Bridge#Tennis Court
+8.155291564767628#Bridge#Nightclub
+18.602698690488072#Bridge#Science Museum
+5.340946745798676#Bridge#College Residence Hall
+8.043416467974957#Bridge#Sandwich Place
+11.510543933716848#Bridge#Sporting Goods Shop
+18.52135560773046#Bridge#Castle
+13.322416381157206#Bridge#Light Rail
+12.526320213702155#Bridge#Ramen /  Noodle House
+9.271183069124664#Bridge#Mexican Restaurant
+9.868329731068346#Bridge#Movie Theater
+12.366456320120843#Bridge#Theme Park
+8.184844977537528#Bridge#Farmers Market
+21.563608247993052#Bridge#Pool
+5.942778901606461#Bridge#University
+8.57413668990958#Bridge#Cupcake Shop
+0.7067274446166301#Grocery Store#Road
+0.541465524001447#Grocery Store#Residential Building (Apartment / Condo)
+0.5770793422681177#Grocery Store#Mall
+0.6061859455738849#Grocery Store#Cafe
+0.8153827047940141#Grocery Store#Market
+0.7626534303413475#Grocery Store#Gay Bar
+0.8977878672787072#Grocery Store#Clothing Store
+1.2093934630303929#Grocery Store#Performing Arts Venue
+0.844335477038208#Grocery Store#Flea Market
+0.8909820701444954#Grocery Store#Art Museum
+0.7029526866821553#Grocery Store#Bus Line
+1.072243524534295#Grocery Store#Music Venue
+0.8009099898048695#Grocery Store#Bus Station
+1.5968090634377057#Grocery Store#Racetrack
+0.8005268657810054#Grocery Store#Art Gallery
+0.9492163842516647#Grocery Store#Train
+1.8991762913759571#Grocery Store#Athletic & Sport
+0.7170366952449851#Grocery Store#Electronics Store
+0.7633683875630393#Grocery Store#Fast Food Restaurant
+0.8750373379715102#Grocery Store#General Travel
+0.6412602045664031#Grocery Store#Other Great Outdoors
+0.6763555096596573#Grocery Store#Italian Restaurant
+0.3935114322265818#Grocery Store#Airport Terminal
+0.7584738577605431#Grocery Store#Garden
+2.4877879635546636#Grocery Store#Tennis Court
+0.6701697787448333#Grocery Store#Nightclub
+1.5180061908316844#Grocery Store#Science Museum
+0.437564793369042#Grocery Store#College Residence Hall
+0.6592951993123203#Grocery Store#Sandwich Place
+0.9439247768644317#Grocery Store#Sporting Goods Shop
+1.503596194249655#Grocery Store#Castle
+1.094307652163181#Grocery Store#Light Rail
+0.7606760648217207#Grocery Store#Mexican Restaurant
+0.8073782468883972#Grocery Store#Movie Theater
+1.0095727320717824#Grocery Store#Theme Park
+1.7596563696926273#Grocery Store#Pool
+0.7023156240825866#Grocery Store#Cupcake Shop
+1.2041764591637194#Road#Residential Building (Apartment / Condo)
+1.2642926450180667#Road#Mall
+2.734210534313427#Road#Monument / Landmark
+1.338796662134882#Road#Cafe
+1.7899210240761576#Road#Market
+1.6897866320932067#Road#Gay Bar
+1.9819035257960953#Road#Clothing Store
+2.6698527472662095#Road#Performing Arts Venue
+1.8388825293478788#Road#Flea Market
+1.537780118566073#Road#History Museum
+1.9087566205712783#Road#Scenic Lookout
+1.9844798445321885#Road#Art Museum
+1.4396425076230068#Road#Bar
+1.9127975911768789#Road#Department Store
+1.5432687102588345#Road#Bus Line
+2.4309510834931896#Road#Music Venue
+1.7319700241788925#Road#Bus Station
+3.450372210560351#Road#Racetrack
+1.7819098024951603#Road#Art Gallery
+2.1009381395803035#Road#Train
+4.212240946144302#Road#Athletic & Sport
+1.5783777959853544#Road#Electronics Store
+1.6587116501411812#Road#Fast Food Restaurant
+1.9082258873473823#Road#General Travel
+1.8886352776792634#Road#Soccer Stadium
+1.4109463893799676#Road#Other Great Outdoors
+1.8899727945665716#Road#Theater
+1.4981338251459848#Road#Italian Restaurant
+0.875054778942581#Road#Airport Terminal
+1.090508442138346#Road#Church
+1.6823892249663233#Road#Garden
+5.5380679767345535#Road#Tennis Court
+1.4802307797935488#Road#Nightclub
+3.378076690388557#Road#Science Museum
+0.9660402550184888#Road#College Residence Hall
+1.4593868661667737#Road#Sandwich Place
+2.0867352673012225#Road#Sporting Goods Shop
+3.3529871312012194#Road#Castle
+2.4306914722267523#Road#Light Rail
+2.2712860048101025#Road#Ramen /  Noodle House
+1.686892259914182#Road#Mexican Restaurant
+1.790870058509104#Road#Movie Theater
+2.2442191513523855#Road#Theme Park
+1.486410605790991#Road#Farmers Market
+3.9013282424012043#Road#Pool
+1.0836375100223294#Road#University
+1.5587194467263494#Road#Cupcake Shop
+1.0600264886423794#Residential Building (Apartment / Condo)#Mall
+2.288474041636791#Residential Building (Apartment / Condo)#Monument / Landmark
+1.1172707748887325#Residential Building (Apartment / Condo)#Cafe
+1.478260808530343#Residential Building (Apartment / Condo)#Market
+1.4115509580922916#Residential Building (Apartment / Condo)#Gay Bar
+1.6503379643389602#Residential Building (Apartment / Condo)#Clothing Store
+2.2658793909295323#Residential Building (Apartment / Condo)#Performing Arts Venue
+1.5326883996455316#Residential Building (Apartment / Condo)#Flea Market
+1.2893943037364948#Residential Building (Apartment / Condo)#History Museum
+1.6260228664093095#Residential Building (Apartment / Condo)#Scenic Lookout
+1.6604707495777502#Residential Building (Apartment / Condo)#Art Museum
+1.205622357431503#Residential Building (Apartment / Condo)#Bar
+1.5944684758149872#Residential Building (Apartment / Condo)#Department Store
+1.2862894021864815#Residential Building (Apartment / Condo)#Bus Line
+1.9887399386629556#Residential Building (Apartment / Condo)#Music Venue
+1.4439708631215527#Residential Building (Apartment / Condo)#Bus Station
+2.8677288454850802#Residential Building (Apartment / Condo)#Racetrack
+1.4871586640428394#Residential Building (Apartment / Condo)#Art Gallery
+1.758280301673365#Residential Building (Apartment / Condo)#Train
+3.5576154790680654#Residential Building (Apartment / Condo)#Athletic & Sport
+1.3237940092150005#Residential Building (Apartment / Condo)#Electronics Store
+1.3842417967270124#Residential Building (Apartment / Condo)#Fast Food Restaurant
+1.5996446614358724#Residential Building (Apartment / Condo)#General Travel
+1.607501670669667#Residential Building (Apartment / Condo)#Soccer Stadium
+1.171005319359496#Residential Building (Apartment / Condo)#Other Great Outdoors
+1.574793123941191#Residential Building (Apartment / Condo)#Theater
+1.2517300117371355#Residential Building (Apartment / Condo)#Italian Restaurant
+0.7289221131167517#Residential Building (Apartment / Condo)#Airport Terminal
+0.9113223469289031#Residential Building (Apartment / Condo)#Church
+1.4164837274502955#Residential Building (Apartment / Condo)#Garden
+4.629786454736791#Residential Building (Apartment / Condo)#Tennis Court
+1.2401368481039978#Residential Building (Apartment / Condo)#Nightclub
+2.877182098802911#Residential Building (Apartment / Condo)#Science Museum
+0.8125020866817182#Residential Building (Apartment / Condo)#College Residence Hall
+1.2197913955752206#Residential Building (Apartment / Condo)#Sandwich Place
+1.7427504145361492#Residential Building (Apartment / Condo)#Sporting Goods Shop
+2.803913467317676#Residential Building (Apartment / Condo)#Castle
+2.0578939128279807#Residential Building (Apartment / Condo)#Light Rail
+1.8953908109776076#Residential Building (Apartment / Condo)#Ramen /  Noodle House
+1.4048976840547183#Residential Building (Apartment / Condo)#Mexican Restaurant
+1.4947643296219424#Residential Building (Apartment / Condo)#Movie Theater
+1.8780621457771836#Residential Building (Apartment / Condo)#Theme Park
+1.2386643982224304#Residential Building (Apartment / Condo)#Farmers Market
+3.2999330426314146#Residential Building (Apartment / Condo)#Pool
+0.9092520218308551#Residential Building (Apartment / Condo)#University
+1.30115251426927#Residential Building (Apartment / Condo)#Cupcake Shop
+9.099615154819933#Mall#Monument / Landmark
+4.454572726867853#Mall#Cafe
+5.90894830072029#Mall#Market
+5.628395858971036#Mall#Gay Bar
+6.640386480063497#Mall#Clothing Store
+8.922684488824407#Mall#Performing Arts Venue
+6.1474304283872625#Mall#Flea Market
+5.1407678663236895#Mall#History Museum
+6.280775937515403#Mall#Scenic Lookout
+6.611402606947157#Mall#Art Museum
+4.810021324436333#Mall#Bar
+6.4204104852446555#Mall#Department Store
+5.139525904744113#Mall#Bus Line
+7.932632340203073#Mall#Music Venue
+5.7696585689820985#Mall#Bus Station
+11.489907866567219#Mall#Racetrack
+5.936108140695877#Mall#Art Gallery
+7.026541688464941#Mall#Train
+14.098145353869644#Mall#Athletic & Sport
+5.308765941052603#Mall#Electronics Store
+5.530381248957188#Mall#Fast Food Restaurant
+6.372873048098146#Mall#General Travel
+6.329924912959242#Mall#Soccer Stadium
+4.597874811269108#Mall#Other Great Outdoors
+6.306353409844213#Mall#Theater
+5.001447098482779#Mall#Italian Restaurant
+2.92499686071919#Mall#Airport Terminal
+3.6411141576927037#Mall#Church
+5.606708604990446#Mall#Garden
+18.536991190794847#Mall#Tennis Court
+4.940647144962182#Mall#Nightclub
+11.26068739258404#Mall#Science Museum
+3.2233878325054635#Mall#College Residence Hall
+4.8739947610366725#Mall#Sandwich Place
+6.999709018783869#Mall#Sporting Goods Shop
+11.207909677322416#Mall#Castle
+8.087031589005418#Mall#Light Rail
+7.61038200823847#Mall#Ramen /  Noodle House
+5.628106440140534#Mall#Mexican Restaurant
+5.979431341725465#Mall#Movie Theater
+7.509285453349357#Mall#Theme Park
+4.957497806098998#Mall#Farmers Market
+13.079239249213458#Mall#Pool
+3.600305342801938#Mall#University
+5.213784416311066#Mall#Cupcake Shop
+5.6791226996629955#Monument / Landmark#Cafe
+7.532804938540256#Monument / Landmark#Market
+7.187454235231095#Monument / Landmark#Gay Bar
+8.40653753586884#Monument / Landmark#Clothing Store
+11.398494083387693#Monument / Landmark#Performing Arts Venue
+7.817396149148438#Monument / Landmark#Flea Market
+8.495159245949825#Monument / Landmark#Art Museum
+6.540974175096142#Monument / Landmark#Bus Line
+10.114630530349729#Monument / Landmark#Music Venue
+7.353406328917945#Monument / Landmark#Bus Station
+14.615517020410318#Monument / Landmark#Racetrack
+7.589877709614716#Monument / Landmark#Art Gallery
+8.937355716234519#Monument / Landmark#Train
+18.147210125632604#Monument / Landmark#Athletic & Sport
+6.711251773051494#Monument / Landmark#Electronics Store
+7.062712408618815#Monument / Landmark#Fast Food Restaurant
+8.110259011671943#Monument / Landmark#General Travel
+5.869262723932072#Monument / Landmark#Other Great Outdoors
+6.367781181414469#Monument / Landmark#Italian Restaurant
+3.721700546758472#Monument / Landmark#Airport Terminal
+7.207135139960369#Monument / Landmark#Garden
+23.58320381524421#Monument / Landmark#Tennis Court
+6.292200868230955#Monument / Landmark#Nightclub
+14.328490605755865#Monument / Landmark#Science Museum
+4.099831590644671#Monument / Landmark#College Residence Hall
+6.212603227054906#Monument / Landmark#Sandwich Place
+8.93552138191472#Monument / Landmark#Sporting Goods Shop
+14.507521928936585#Monument / Landmark#Castle
+10.281361395884943#Monument / Landmark#Light Rail
+7.164238552597909#Monument / Landmark#Mexican Restaurant
+7.615487686168687#Monument / Landmark#Movie Theater
+9.555267968165827#Monument / Landmark#Theme Park
+17.09595898619537#Monument / Landmark#Pool
+6.61225553411531#Monument / Landmark#Cupcake Shop
+0.5486949627048646#Cafe#Market
+0.5229884699766711#Cafe#Gay Bar
+0.6136408267888566#Cafe#Clothing Store
+0.814886613344173#Cafe#Performing Arts Venue
+0.5662440802015407#Cafe#Flea Market
+0.4797821119818824#Cafe#History Museum
+0.5743946321954635#Cafe#Scenic Lookout
+0.6181390874142279#Cafe#Art Museum
+0.44460087055285924#Cafe#Bar
+0.5894656798570247#Cafe#Department Store
+0.4719007221433294#Cafe#Bus Line
+0.7290976691873023#Cafe#Music Venue
+0.5312510822116213#Cafe#Bus Station
+1.0395016137064201#Cafe#Racetrack
+0.552716223775536#Cafe#Art Gallery
+0.6473040754250596#Cafe#Train
+1.2958435081933646#Cafe#Athletic & Sport
+0.4909652002196253#Cafe#Electronics Store
+0.5105727911765539#Cafe#Fast Food Restaurant
+0.5873174465625375#Cafe#General Travel
+0.5786037716879868#Cafe#Soccer Stadium
+0.4249580289336528#Cafe#Other Great Outdoors
+0.5852651431615117#Cafe#Theater
+0.46539574641915454#Cafe#Italian Restaurant
+0.26550896281329234#Cafe#Airport Terminal
+0.33861504394354563#Cafe#Church
+0.5234783947424431#Cafe#Garden
+1.6792983467044638#Cafe#Tennis Court
+0.45906835750911534#Cafe#Nightclub
+1.0628331841299974#Cafe#Science Museum
+0.3036304485660876#Cafe#College Residence Hall
+0.45094889182514697#Cafe#Sandwich Place
+0.6472623178310224#Cafe#Sporting Goods Shop
+1.0363948667426406#Cafe#Castle
+0.7516305573723087#Cafe#Light Rail
+0.7029329983949874#Cafe#Ramen /  Noodle House
+0.5218210637308919#Cafe#Mexican Restaurant
+0.552895110401917#Cafe#Movie Theater
+0.6966142272688632#Cafe#Theme Park
+0.47126646075684614#Cafe#Farmers Market
+1.2215446461991246#Cafe#Pool
+0.33983301769211544#Cafe#University
+0.4868090404093609#Cafe#Cupcake Shop
+26.46927038281334#Market#Gay Bar
+31.00389143560773#Market#Clothing Store
+41.852532885642916#Market#Performing Arts Venue
+28.831057819250415#Market#Flea Market
+24.094578745812292#Market#History Museum
+29.427616032907874#Market#Scenic Lookout
+31.024704922300185#Market#Art Museum
+22.541094353279536#Market#Bar
+29.91081357267122#Market#Department Store
+24.093889736539435#Market#Bus Line
+37.25062522299237#Market#Music Venue
+27.046074394777364#Market#Bus Station
+53.942604848201405#Market#Racetrack
+27.860012495099003#Market#Art Gallery
+32.93394604851976#Market#Train
+66.13063175540522#Market#Athletic & Sport
+24.738048812801438#Market#Electronics Store
+25.904027757510597#Market#Fast Food Restaurant
+29.89786896678206#Market#General Travel
+29.700604835823725#Market#Soccer Stadium
+21.57726149679065#Market#Other Great Outdoors
+29.55781731870026#Market#Theater
+23.425128402214142#Market#Italian Restaurant
+13.73174185369948#Market#Airport Terminal
+17.064309617347533#Market#Church
+26.32708367066992#Market#Garden
+87.03931572707845#Market#Tennis Court
+23.17517114287186#Market#Nightclub
+52.87074578068333#Market#Science Museum
+15.12237968365553#Market#College Residence Hall
+22.836050141463456#Market#Sandwich Place
+32.734411410015056#Market#Sporting Goods Shop
+52.379701402906555#Market#Castle
+37.88877963562535#Market#Light Rail
+35.58016820247352#Market#Ramen /  Noodle House
+26.391298585168123#Market#Mexican Restaurant
+28.01395942294031#Market#Movie Theater
+35.189989052313#Market#Theme Park
+23.23986148329809#Market#Farmers Market
+61.36148080780011#Market#Pool
+16.916158410217623#Market#University
+24.38493493790868#Market#Cupcake Shop
+10.164932048869364#Gay Bar#Clothing Store
+13.69944575315047#Gay Bar#Performing Arts Venue
+9.428972456666498#Gay Bar#Flea Market
+7.890519634060369#Gay Bar#History Museum
+9.63202401174314#Gay Bar#Scenic Lookout
+10.184431697902612#Gay Bar#Art Museum
+7.388314418149025#Gay Bar#Bar
+9.776392442584156#Gay Bar#Department Store
+7.892603652975258#Gay Bar#Bus Line
+12.184654425209292#Gay Bar#Music Venue
+8.85289947055521#Gay Bar#Bus Station
+17.646813850949997#Gay Bar#Racetrack
+9.13643493698132#Gay Bar#Art Gallery
+10.781967379189426#Gay Bar#Train
+21.650660945000222#Gay Bar#Athletic & Sport
+8.100428954092981#Gay Bar#Electronics Store
+8.479340529062089#Gay Bar#Fast Food Restaurant
+9.784315028247441#Gay Bar#General Travel
+9.720271950809336#Gay Bar#Soccer Stadium
+7.068164863494712#Gay Bar#Other Great Outdoors
+9.709913611040278#Gay Bar#Theater
+7.682311567052782#Gay Bar#Italian Restaurant
+4.499079890703905#Gay Bar#Airport Terminal
+5.590299623629791#Gay Bar#Church
+8.610585810425553#Gay Bar#Garden
+28.47584875796007#Gay Bar#Tennis Court
+7.647533826289933#Gay Bar#Nightclub
+17.29616527748618#Gay Bar#Science Museum
+4.952447776283265#Gay Bar#College Residence Hall
+7.488561475250224#Gay Bar#Sandwich Place
+10.728470752185142#Gay Bar#Sporting Goods Shop
+17.153216719119893#Gay Bar#Castle
+12.394668862941398#Gay Bar#Light Rail
+11.6701846006212#Gay Bar#Ramen /  Noodle House
+8.650781590305018#Gay Bar#Mexican Restaurant
+9.201937858012998#Gay Bar#Movie Theater
+11.519898037025506#Gay Bar#Theme Park
+7.623785682581267#Gay Bar#Farmers Market
+20.079055259355364#Gay Bar#Pool
+5.536153132023345#Gay Bar#University
+7.986735892640658#Gay Bar#Cupcake Shop
+2.760032345228025#Clothing Store#Performing Arts Venue
+1.933262547337968#Clothing Store#Flea Market
+1.591900199386434#Clothing Store#History Museum
+1.958283760938248#Clothing Store#Scenic Lookout
+2.054549486082802#Clothing Store#Art Museum
+1.5010301750863047#Clothing Store#Bar
+2.0493890741112746#Clothing Store#Department Store
+1.59360078773449#Clothing Store#Bus Line
+2.462087149076025#Clothing Store#Music Venue
+1.7983079583585562#Clothing Store#Bus Station
+3.5529880392715865#Clothing Store#Racetrack
+1.8549277566430058#Clothing Store#Art Gallery
+2.1802168920804377#Clothing Store#Train
+4.402782751885647#Clothing Store#Athletic & Sport
+1.6966297173215945#Clothing Store#Electronics Store
+1.7247179701401203#Clothing Store#Fast Food Restaurant
+1.9793813355586873#Clothing Store#General Travel
+1.9655701636049794#Clothing Store#Soccer Stadium
+1.4254595426482204#Clothing Store#Other Great Outdoors
+1.9666839453997607#Clothing Store#Theater
+1.5715096956123966#Clothing Store#Italian Restaurant
+0.9073439908009192#Clothing Store#Airport Terminal
+1.1301288161929823#Clothing Store#Church
+1.7400637573261255#Clothing Store#Garden
+5.730822563188813#Clothing Store#Tennis Court
+1.5489692375961863#Clothing Store#Nightclub
+3.4835051710452647#Clothing Store#Science Museum
+1.0013559260350102#Clothing Store#College Residence Hall
+1.5231897353688881#Clothing Store#Sandwich Place
+2.2247931509410903#Clothing Store#Sporting Goods Shop
+3.4603940436639298#Clothing Store#Castle
+2.5099340768939036#Clothing Store#Light Rail
+2.393919621967595#Clothing Store#Ramen /  Noodle House
+1.7746851716758678#Clothing Store#Mexican Restaurant
+1.8709280752084245#Clothing Store#Movie Theater
+2.3204143335585643#Clothing Store#Theme Park
+1.535505256888815#Clothing Store#Farmers Market
+4.096606100132135#Clothing Store#Pool
+1.118820205305162#Clothing Store#University
+1.65173708087578#Clothing Store#Cupcake Shop
+13.695085262237919#Performing Arts Venue#Flea Market
+11.448123565640477#Performing Arts Venue#History Museum
+13.977652254519672#Performing Arts Venue#Scenic Lookout
+14.766124930640906#Performing Arts Venue#Art Museum
+10.723145274192401#Performing Arts Venue#Bar
+14.183488364781203#Performing Arts Venue#Department Store
+11.462968368134085#Performing Arts Venue#Bus Line
+17.789242213558587#Performing Arts Venue#Music Venue
+12.846738820094457#Performing Arts Venue#Bus Station
+25.899673717607953#Performing Arts Venue#Racetrack
+13.275715077318672#Performing Arts Venue#Art Gallery
+15.659268578825346#Performing Arts Venue#Train
+31.484202337653446#Performing Arts Venue#Athletic & Sport
+11.751406373082395#Performing Arts Venue#Electronics Store
+12.334985015139262#Performing Arts Venue#Fast Food Restaurant
+14.191876622890131#Performing Arts Venue#General Travel
+14.478175473403462#Performing Arts Venue#Soccer Stadium
+10.25174152220681#Performing Arts Venue#Other Great Outdoors
+14.065373673574566#Performing Arts Venue#Theater
+11.125324222751251#Performing Arts Venue#Italian Restaurant
+6.518112837230303#Performing Arts Venue#Airport Terminal
+8.10822653312894#Performing Arts Venue#Church
+12.494656370260218#Performing Arts Venue#Garden
+41.31353565366577#Performing Arts Venue#Tennis Court
+10.997489139109085#Performing Arts Venue#Nightclub
+25.096882136213488#Performing Arts Venue#Science Museum
+7.183637775053468#Performing Arts Venue#College Residence Hall
+10.847722957130538#Performing Arts Venue#Sandwich Place
+15.567815253467545#Performing Arts Venue#Sporting Goods Shop
+24.891888849472558#Performing Arts Venue#Castle
+18.00850692687279#Performing Arts Venue#Light Rail
+16.902584835181347#Performing Arts Venue#Ramen /  Noodle House
+12.522491848100834#Performing Arts Venue#Mexican Restaurant
+13.40203721114617#Performing Arts Venue#Movie Theater
+16.720362181917164#Performing Arts Venue#Theme Park
+11.057051616808602#Performing Arts Venue#Farmers Market
+29.16432369919091#Performing Arts Venue#Pool
+8.027509992668625#Performing Arts Venue#University
+11.575829315118652#Performing Arts Venue#Cupcake Shop
+12.715775864544915#Flea Market#History Museum
+15.53097256592264#Flea Market#Scenic Lookout
+16.383421702649237#Flea Market#Art Museum
+11.90079869417992#Flea Market#Bar
+15.830378136266166#Flea Market#Department Store
+12.708187849861034#Flea Market#Bus Line
+19.64910221573081#Flea Market#Music Venue
+14.29198120187402#Flea Market#Bus Station
+28.452825700559032#Flea Market#Racetrack
+14.705533544100904#Flea Market#Art Gallery
+17.371698332710622#Flea Market#Train
+34.88307838745737#Flea Market#Athletic & Sport
+13.05707459002011#Flea Market#Electronics Store
+13.666180018966175#Flea Market#Fast Food Restaurant
+15.772402548405479#Flea Market#General Travel
+15.666888048887479#Flea Market#Soccer Stadium
+11.381798264090792#Flea Market#Other Great Outdoors
+15.603464489964601#Flea Market#Theater
+12.379692100319417#Flea Market#Italian Restaurant
+7.243585137089169#Flea Market#Airport Terminal
+9.00255080557813#Flea Market#Church
+13.875569664991481#Flea Market#Garden
+45.91037983573372#Flea Market#Tennis Court
+12.222404764524043#Flea Market#Nightclub
+27.88745776348077#Flea Market#Science Museum
+7.975418151302985#Flea Market#College Residence Hall
+12.05132209707424#Flea Market#Sandwich Place
+17.287324414206232#Flea Market#Sporting Goods Shop
+27.69581086401324#Flea Market#Castle
+19.983937182757753#Flea Market#Light Rail
+18.78889010318467#Flea Market#Ramen /  Noodle House
+13.93165505312742#Flea Market#Mexican Restaurant
+14.788168728605322#Flea Market#Movie Theater
+18.56214067677641#Flea Market#Theme Park
+12.27052695630582#Flea Market#Farmers Market
+32.3665428797225#Flea Market#Pool
+8.918937064390523#Flea Market#University
+12.871520641289926#Flea Market#Cupcake Shop
+10.227485098708827#History Museum#Art Museum
+7.384493882210139#History Museum#Bar
+7.884783174968449#History Museum#Bus Line
+12.17775491234959#History Museum#Music Venue
+8.85200022948771#History Museum#Bus Station
+17.65400345311014#History Museum#Racetrack
+9.142803800721577#History Museum#Art Gallery
+10.774408980629893#History Museum#Train
+21.642683490034717#History Museum#Athletic & Sport
+8.10030097407929#History Museum#Electronics Store
+8.477778716703881#History Museum#Fast Food Restaurant
+9.788078443030052#History Museum#General Travel
+7.063641938764186#History Museum#Other Great Outdoors
+7.680123270369472#History Museum#Italian Restaurant
+4.494262317824751#History Museum#Airport Terminal
+8.632663991882946#History Museum#Garden
+28.48567250965659#History Museum#Tennis Court
+7.591798670933623#History Museum#Nightclub
+17.569580267750727#History Museum#Science Museum
+4.978374281647253#History Museum#College Residence Hall
+7.484860379598743#History Museum#Sandwich Place
+10.722407599789175#History Museum#Sporting Goods Shop
+17.237116764362025#History Museum#Castle
+12.408288110873913#History Museum#Light Rail
+8.643459572359848#History Museum#Mexican Restaurant
+9.17978238709959#History Museum#Movie Theater
+11.515065134210477#History Museum#Theme Park
+20.07744772776787#History Museum#Pool
+7.99079383824906#History Museum#Cupcake Shop
+10.733728332251317#Scenic Lookout#Art Museum
+7.781637971265#Scenic Lookout#Bar
+10.325663394534619#Scenic Lookout#Department Store
+8.310602549507852#Scenic Lookout#Bus Line
+12.84334053988087#Scenic Lookout#Music Venue
+9.332000543599728#Scenic Lookout#Bus Station
+18.61131738793989#Scenic Lookout#Racetrack
+9.615238421865389#Scenic Lookout#Art Gallery
+11.366587405000883#Scenic Lookout#Train
+22.851916320293874#Scenic Lookout#Athletic & Sport
+8.544391435342192#Scenic Lookout#Electronics Store
+8.941160121588313#Scenic Lookout#Fast Food Restaurant
+10.31832018690379#Scenic Lookout#General Travel
+7.491985724663483#Scenic Lookout#Other Great Outdoors
+8.088959014633199#Scenic Lookout#Italian Restaurant
+4.737877064129839#Scenic Lookout#Airport Terminal
+9.085881747540665#Scenic Lookout#Garden
+31.705332119826007#Scenic Lookout#Tennis Court
+7.993620386867648#Scenic Lookout#Nightclub
+18.245629021481836#Scenic Lookout#Science Museum
+5.217285726419903#Scenic Lookout#College Residence Hall
+7.889474951628706#Scenic Lookout#Sandwich Place
+11.399151641694385#Scenic Lookout#Sporting Goods Shop
+18.162874164252337#Scenic Lookout#Castle
+13.179265889985489#Scenic Lookout#Light Rail
+9.108105628765031#Scenic Lookout#Mexican Restaurant
+9.671726479474488#Scenic Lookout#Movie Theater
+12.154988906236513#Scenic Lookout#Theme Park
+21.222028927093344#Scenic Lookout#Pool
+8.414625002246849#Scenic Lookout#Cupcake Shop
+18.62145933160264#Art Museum#Bar
+24.672938053019855#Art Museum#Department Store
+19.892812434384197#Art Museum#Bus Line
+30.737672441557084#Art Museum#Music Venue
+22.337353384618368#Art Museum#Bus Station
+44.557132209966284#Art Museum#Racetrack
+23.05865941821244#Art Museum#Art Gallery
+27.201925130708872#Art Museum#Train
+54.62544190644981#Art Museum#Athletic & Sport
+20.432943266952453#Art Museum#Electronics Store
+21.3946015956132#Art Museum#Fast Food Restaurant
+24.698759919763848#Art Museum#General Travel
+24.533054992477386#Art Museum#Soccer Stadium
+17.821952963331228#Art Museum#Other Great Outdoors
+24.439508318615477#Art Museum#Theater
+19.365915483305816#Art Museum#Italian Restaurant
+11.344578145191464#Art Museum#Airport Terminal
+14.102541340395987#Art Museum#Church
+21.758059523665036#Art Museum#Garden
+71.8964320608634#Art Museum#Tennis Court
+19.153967977777654#Art Museum#Nightclub
+43.98528603582944#Art Museum#Science Museum
+12.517715209500713#Art Museum#College Residence Hall
+18.87827106222204#Art Museum#Sandwich Place
+27.04745605013892#Art Museum#Sporting Goods Shop
+43.418623620640254#Art Museum#Castle
+31.29394505015363#Art Museum#Light Rail
+29.401149492349546#Art Museum#Ramen /  Noodle House
+21.78175163622364#Art Museum#Mexican Restaurant
+23.154484400020355#Art Museum#Movie Theater
+29.06925865457413#Art Museum#Theme Park
+19.197800700355245#Art Museum#Farmers Market
+50.68585941542548#Art Museum#Pool
+13.977441806081075#Art Museum#University
+20.15740594900013#Art Museum#Cupcake Shop
+0.6566352991141968#Bar#Bus Line
+1.0127060305532434#Bar#Music Venue
+0.738486065724775#Bar#Bus Station
+1.465348041527598#Bar#Racetrack
+0.7641334717730986#Bar#Art Gallery
+0.8934759581330978#Bar#Train
+1.797476959929402#Bar#Athletic & Sport
+0.6753577565021466#Bar#Electronics Store
+0.706727772440251#Bar#Fast Food Restaurant
+0.8125040595073338#Bar#General Travel
+0.5865569808607037#Bar#Other Great Outdoors
+0.6408371782249707#Bar#Italian Restaurant
+0.36931046256531586#Bar#Airport Terminal
+0.712485293287799#Bar#Garden
+2.332405314555383#Bar#Tennis Court
+0.637819988934363#Bar#Nightclub
+1.4295806567006755#Bar#Science Museum
+0.41255054624528414#Bar#College Residence Hall
+0.6265131279037618#Bar#Sandwich Place
+0.8883633015959326#Bar#Sporting Goods Shop
+1.4313851912662947#Bar#Castle
+1.0217933413568732#Bar#Light Rail
+0.727139850830338#Bar#Mexican Restaurant
+0.7687745058319899#Bar#Movie Theater
+0.9460259478764307#Bar#Theme Park
+1.6508255540494365#Bar#Pool
+0.6645702664293419#Bar#Cupcake Shop
+4.232307662285999#Department Store#Bus Line
+6.535023475082168#Department Store#Music Venue
+4.767422622591163#Department Store#Bus Station
+9.475217909238694#Department Store#Racetrack
+4.890412327042473#Department Store#Art Gallery
+5.788551757738191#Department Store#Train
+11.637706009168564#Department Store#Athletic & Sport
+4.397783583581033#Department Store#Electronics Store
+4.563618821824735#Department Store#Fast Food Restaurant
+5.249758111254081#Department Store#General Travel
+3.7881530075921956#Department Store#Other Great Outdoors
+4.1338251158555135#Department Store#Italian Restaurant
+2.416596155921545#Department Store#Airport Terminal
+4.6283140262514735#Department Store#Garden
+15.265479020830256#Department Store#Tennis Court
+4.0780336948104114#Department Store#Nightclub
+9.273200924372297#Department Store#Science Museum
+2.6562606408591556#Department Store#College Residence Hall
+4.01478592587414#Department Store#Sandwich Place
+5.778311459965573#Department Store#Sporting Goods Shop
+9.210830287958352#Department Store#Castle
+6.665062457777075#Department Store#Light Rail
+4.6463284194513585#Department Store#Mexican Restaurant
+4.929742723816354#Department Store#Movie Theater
+6.189592807329595#Department Store#Theme Park
+10.808419531529202#Department Store#Pool
+4.311147895641585#Department Store#Cupcake Shop
+1.8163495529305436#Bus Line#Music Venue
+1.346441665352456#Bus Line#Bus Station
+2.6236223391962574#Bus Line#Racetrack
+1.35914498583186#Bus Line#Art Gallery
+1.6116839235324232#Bus Line#Train
+3.219225814057338#Bus Line#Athletic & Sport
+1.2109755353836815#Bus Line#Electronics Store
+1.2854843086413508#Bus Line#Fast Food Restaurant
+1.5280189294305258#Bus Line#General Travel
+1.4704096825962283#Bus Line#Soccer Stadium
+1.069816337137235#Bus Line#Other Great Outdoors
+1.4410506803777887#Bus Line#Theater
+1.143003395481032#Bus Line#Italian Restaurant
+0.6697342014795801#Bus Line#Airport Terminal
+0.8347444713850852#Bus Line#Church
+1.295886651807875#Bus Line#Garden
+4.224737604635852#Bus Line#Tennis Court
+1.1309156178075832#Bus Line#Nightclub
+2.5633875258471406#Bus Line#Science Museum
+0.7356476428706846#Bus Line#College Residence Hall
+1.1136859183912853#Bus Line#Sandwich Place
+1.5981581881094313#Bus Line#Sporting Goods Shop
+2.5571567248861546#Bus Line#Castle
+1.9170815235517185#Bus Line#Light Rail
+1.7358476777399274#Bus Line#Ramen /  Noodle House
+1.2859976514450457#Bus Line#Mexican Restaurant
+1.3752309530866345#Bus Line#Movie Theater
+1.708621592866081#Bus Line#Theme Park
+1.1339709069416095#Bus Line#Farmers Market
+2.9820223222587834#Bus Line#Pool
+0.8236503802515867#Bus Line#University
+1.1874646737250176#Bus Line#Cupcake Shop
+5.031987100263159#Music Venue#Bus Station
+10.476586328652429#Music Venue#Racetrack
+5.183716224236506#Music Venue#Art Gallery
+6.117962696837685#Music Venue#Train
+12.336018186310204#Music Venue#Athletic & Sport
+4.6084538138320665#Music Venue#Electronics Store
+4.822453222466983#Music Venue#Fast Food Restaurant
+5.557778000543558#Music Venue#General Travel
+5.67480745077817#Music Venue#Soccer Stadium
+4.018172032132841#Music Venue#Other Great Outdoors
+5.494152515744002#Music Venue#Theater
+4.36684165820034#Music Venue#Italian Restaurant
+2.5514117597835444#Music Venue#Airport Terminal
+3.173795262440099#Music Venue#Church
+4.8951738095795525#Music Venue#Garden
+16.166874660908054#Music Venue#Tennis Court
+4.313999724538942#Music Venue#Nightclub
+9.820568511265915#Music Venue#Science Museum
+2.810624984136725#Music Venue#College Residence Hall
+4.251711480672954#Music Venue#Sandwich Place
+6.091506452661666#Music Venue#Sporting Goods Shop
+9.800836331029798#Music Venue#Castle
+7.055816898091495#Music Venue#Light Rail
+6.631147985073312#Music Venue#Ramen /  Noodle House
+4.948269458906839#Music Venue#Mexican Restaurant
+5.233586908906879#Music Venue#Movie Theater
+6.585942485786337#Music Venue#Theme Park
+4.320896220957443#Music Venue#Farmers Market
+11.397755831333546#Music Venue#Pool
+3.1451529227810706#Music Venue#University
+4.541478260353938#Music Venue#Cupcake Shop
+3.5415094384201447#Bus Station#Racetrack
+1.8353668106077703#Bus Station#Art Gallery
+2.1814478134906987#Bus Station#Train
+4.349352748857697#Bus Station#Athletic & Sport
+1.6392868226446362#Bus Station#Electronics Store
+1.736419103405385#Bus Station#Fast Food Restaurant
+2.0267938589886603#Bus Station#General Travel
+1.9506559708440987#Bus Station#Soccer Stadium
+1.4439854878390346#Bus Station#Other Great Outdoors
+1.9501961034110926#Bus Station#Theater
+1.5477620367833445#Bus Station#Italian Restaurant
+0.9150314096157226#Bus Station#Airport Terminal
+1.1267949563563424#Bus Station#Church
+1.7380135177966323#Bus Station#Garden
+5.7102088674745195#Bus Station#Tennis Court
+1.5287964264067953#Bus Station#Nightclub
+3.5039178623763405#Bus Station#Science Museum
+0.9976324426420282#Bus Station#College Residence Hall
+1.5085523564370242#Bus Station#Sandwich Place
+2.1589748030020446#Bus Station#Sporting Goods Shop
+3.4610550506169586#Bus Station#Castle
+2.532546421418045#Bus Station#Light Rail
+2.3518263350356907#Bus Station#Ramen /  Noodle House
+1.7406398783082964#Bus Station#Mexican Restaurant
+1.8498041891830936#Bus Station#Movie Theater
+2.311456916425753#Bus Station#Theme Park
+1.5393353701102703#Bus Station#Farmers Market
+4.0400663846224285#Bus Station#Pool
+1.116302118949664#Bus Station#University
+1.6069486569325313#Bus Station#Cupcake Shop
+37.786303961713976#Racetrack#Art Gallery
+44.688848265097455#Racetrack#Train
+89.7464624635015#Racetrack#Athletic & Sport
+33.57192607710657#Racetrack#Electronics Store
+35.154840392271836#Racetrack#Fast Food Restaurant
+40.57502627964936#Racetrack#General Travel
+40.64376712584683#Racetrack#Soccer Stadium
+29.270439155501094#Racetrack#Other Great Outdoors
+40.0876451641399#Racetrack#Theater
+31.786900047416783#Racetrack#Italian Restaurant
+18.638903176723023#Racetrack#Airport Terminal
+23.21816960556719#Racetrack#Church
+35.70385912218685#Racetrack#Garden
+118.15199846109132#Racetrack#Tennis Court
+31.516343143328392#Racetrack#Nightclub
+71.78762377713196#Racetrack#Science Museum
+20.520772727462198#Racetrack#College Residence Hall
+30.975499051828507#Racetrack#Sandwich Place
+44.42644236450592#Racetrack#Sporting Goods Shop
+71.09913589115105#Racetrack#Castle
+51.47323181578609#Racetrack#Light Rail
+48.25927247822296#Racetrack#Ramen /  Noodle House
+35.958792139419735#Racetrack#Mexican Restaurant
+38.210051693156046#Racetrack#Movie Theater
+47.76891474799117#Racetrack#Theme Park
+31.50997394131216#Racetrack#Farmers Market
+83.28990136199235#Racetrack#Pool
+22.937061564965457#Racetrack#University
+33.06280117900836#Racetrack#Cupcake Shop
+2.7366455611127662#Art Gallery#Train
+5.507774173551084#Art Gallery#Athletic & Sport
+2.0539517283439874#Art Gallery#Electronics Store
+2.163259092370201#Art Gallery#Fast Food Restaurant
+2.4799431252231736#Art Gallery#General Travel
+2.4856595450114067#Art Gallery#Soccer Stadium
+1.7927745070641776#Art Gallery#Other Great Outdoors
+2.4854071569081677#Art Gallery#Theater
+1.957311891262005#Art Gallery#Italian Restaurant
+1.1371744297145367#Art Gallery#Airport Terminal
+1.4271489275677678#Art Gallery#Church
+2.2039713052480754#Art Gallery#Garden
+7.212792512028639#Art Gallery#Tennis Court
+1.9403984506917873#Art Gallery#Nightclub
+4.471000646084624#Art Gallery#Science Museum
+1.2768894469081886#Art Gallery#College Residence Hall
+1.9093316413114918#Art Gallery#Sandwich Place
+2.7399273108426656#Art Gallery#Sporting Goods Shop
+4.357119451428112#Art Gallery#Castle
+3.1372237852347937#Art Gallery#Light Rail
+2.973404400024768#Art Gallery#Ramen /  Noodle House
+2.206583635725413#Art Gallery#Mexican Restaurant
+2.35061376951769#Art Gallery#Movie Theater
+2.9131948197255366#Art Gallery#Theme Park
+1.9376609090112056#Art Gallery#Farmers Market
+5.1961046042383146#Art Gallery#Pool
+1.429286936161467#Art Gallery#University
+2.037927275103866#Art Gallery#Cupcake Shop
+14.752784806608679#Train#Athletic & Sport
+5.527165528243807#Train#Electronics Store
+5.795624373114773#Train#Fast Food Restaurant
+6.6885667291738855#Train#General Travel
+6.623710998685813#Train#Soccer Stadium
+4.8187016573046755#Train#Other Great Outdoors
+6.6026787235895235#Train#Theater
+5.236956671802467#Train#Italian Restaurant
+3.0794238433950443#Train#Airport Terminal
+3.811105676974727#Train#Church
+5.877544626947678#Train#Garden
+19.411802313539482#Train#Tennis Court
+5.169303275884891#Train#Nightclub
+11.815553020966613#Train#Science Museum
+3.3828779545663843#Train#College Residence Hall
+5.109431346559698#Train#Sandwich Place
+7.312500951485674#Train#Sporting Goods Shop
+11.687728622612665#Train#Castle
+8.481561147890565#Train#Light Rail
+7.961650262297552#Train#Ramen /  Noodle House
+5.889351713254286#Train#Mexican Restaurant
+6.254143853897386#Train#Movie Theater
+7.847857848794295#Train#Theme Park
+5.194293316862372#Train#Farmers Market
+13.691533299576369#Train#Pool
+3.7800504289932015#Train#University
+5.468815404307881#Train#Cupcake Shop
+13.115938119969417#Athletic & Sport#Electronics Store
+13.730718499234824#Athletic & Sport#Fast Food Restaurant
+15.771854808445754#Athletic & Sport#General Travel
+15.888995254191517#Athletic & Sport#Soccer Stadium
+11.41164715593327#Athletic & Sport#Other Great Outdoors
+15.594233264083657#Athletic & Sport#Theater
+12.373880497272518#Athletic & Sport#Italian Restaurant
+7.242900801788053#Athletic & Sport#Airport Terminal
+8.996080996464123#Athletic & Sport#Church
+14.098548789975723#Athletic & Sport#Garden
+45.910069642926175#Athletic & Sport#Tennis Court
+12.213002316031732#Athletic & Sport#Nightclub
+27.88745776348077#Athletic & Sport#Science Museum
+7.973356465027627#Athletic & Sport#College Residence Hall
+12.05944420649653#Athletic & Sport#Sandwich Place
+17.390633684130655#Athletic & Sport#Sporting Goods Shop
+27.827504351018394#Athletic & Sport#Castle
+20.02378924190916#Athletic & Sport#Light Rail
+18.782485033376776#Athletic & Sport#Ramen /  Noodle House
+13.93697721528645#Athletic & Sport#Mexican Restaurant
+14.796413254389902#Athletic & Sport#Movie Theater
+18.561363286872346#Athletic & Sport#Theme Park
+12.297130868717952#Athletic & Sport#Farmers Market
+33.343223308599654#Athletic & Sport#Pool
+8.916537611329588#Athletic & Sport#University
+12.867870654830924#Athletic & Sport#Cupcake Shop
+4.362927775668187#Electronics Store#Fast Food Restaurant
+5.030255658413034#Electronics Store#General Travel
+4.999173018876433#Electronics Store#Soccer Stadium
+3.6216634163946337#Electronics Store#Other Great Outdoors
+4.961967191540246#Electronics Store#Theater
+3.9427090273874192#Electronics Store#Italian Restaurant
+2.3178701184466113#Electronics Store#Airport Terminal
+2.8663392903235683#Electronics Store#Church
+4.414760251514773#Electronics Store#Garden
+14.588138588339962#Electronics Store#Tennis Court
+3.891585813152308#Electronics Store#Nightclub
+8.861809281060605#Electronics Store#Science Museum
+2.5403079252578364#Electronics Store#College Residence Hall
+3.8410021075997407#Electronics Store#Sandwich Place
+5.521098144253314#Electronics Store#Sporting Goods Shop
+8.781891162832697#Electronics Store#Castle
+6.367954472189252#Electronics Store#Light Rail
+5.998741208050338#Electronics Store#Ramen /  Noodle House
+4.438030359238901#Electronics Store#Mexican Restaurant
+4.714522700306247#Electronics Store#Movie Theater
+5.898351168885957#Electronics Store#Theme Park
+3.8936947896133987#Electronics Store#Farmers Market
+10.319469191656863#Electronics Store#Pool
+2.836791019542569#Electronics Store#University
+4.11876841906829#Electronics Store#Cupcake Shop
+2.0357025423853483#Fast Food Restaurant#General Travel
+2.0438048770797397#Fast Food Restaurant#Soccer Stadium
+1.4710022744502107#Fast Food Restaurant#Other Great Outdoors
+2.002065760826526#Fast Food Restaurant#Theater
+1.584955121325717#Fast Food Restaurant#Italian Restaurant
+0.9238945668518249#Fast Food Restaurant#Airport Terminal
+1.1530600327088223#Fast Food Restaurant#Church
+1.7945130014619015#Fast Food Restaurant#Garden
+5.859096802405983#Fast Food Restaurant#Tennis Court
+1.5656739041706533#Fast Food Restaurant#Nightclub
+3.559948310096811#Fast Food Restaurant#Science Museum
+1.0214761842522133#Fast Food Restaurant#College Residence Hall
+1.5459562475262423#Fast Food Restaurant#Sandwich Place
+2.244130929525902#Fast Food Restaurant#Sporting Goods Shop
+3.536571540601407#Fast Food Restaurant#Castle
+2.5697024306015774#Fast Food Restaurant#Light Rail
+2.411871617901073#Fast Food Restaurant#Ramen /  Noodle House
+1.7835559236173657#Fast Food Restaurant#Mexican Restaurant
+1.9061239579795852#Fast Food Restaurant#Movie Theater
+2.367597604324135#Fast Food Restaurant#Theme Park
+1.5693645169249586#Fast Food Restaurant#Farmers Market
+4.3357870020790426#Fast Food Restaurant#Pool
+1.1404180107866253#Fast Food Restaurant#University
+1.6501808486849943#Fast Food Restaurant#Cupcake Shop
+5.410355339918196#General Travel#Soccer Stadium
+3.961769557761829#General Travel#Other Great Outdoors
+5.392369067996508#General Travel#Theater
+4.276147843112011#General Travel#Italian Restaurant
+2.635813267374834#General Travel#Airport Terminal
+3.1111637505666843#General Travel#Church
+4.809795263782795#General Travel#Garden
+15.85457566568587#General Travel#Tennis Court
+4.220243699365112#General Travel#Nightclub
+9.694547139573862#General Travel#Science Museum
+2.756672200530028#General Travel#College Residence Hall
+4.167987892354784#General Travel#Sandwich Place
+5.975371722716114#General Travel#Sporting Goods Shop
+9.568252128078523#General Travel#Castle
+7.004289716896011#General Travel#Light Rail
+6.485739937492321#General Travel#Ramen /  Noodle House
+4.810289952767301#General Travel#Mexican Restaurant
+5.124681005616592#General Travel#Movie Theater
+6.410442348782734#General Travel#Theme Park
+4.2290848427877945#General Travel#Farmers Market
+11.17836957730263#General Travel#Pool
+3.0837318630165753#General Travel#University
+4.443334089314101#General Travel#Cupcake Shop
+11.384877557968862#Soccer Stadium#Other Great Outdoors
+12.355290667807527#Soccer Stadium#Italian Restaurant
+7.243166800831261#Soccer Stadium#Airport Terminal
+13.870472591257553#Soccer Stadium#Garden
+45.91001772618144#Soccer Stadium#Tennis Court
+12.220310513669066#Soccer Stadium#Nightclub
+27.88745776348077#Soccer Stadium#Science Museum
+7.970940009360831#Soccer Stadium#College Residence Hall
+12.040496938266473#Soccer Stadium#Sandwich Place
+17.29717748055498#Soccer Stadium#Sporting Goods Shop
+27.62844913511662#Soccer Stadium#Castle
+20.009440997634176#Soccer Stadium#Light Rail
+13.902321570242638#Soccer Stadium#Mexican Restaurant
+14.861341290289372#Soccer Stadium#Movie Theater
+18.56143746657685#Soccer Stadium#Theme Park
+32.36568332602329#Soccer Stadium#Pool
+12.84683828169751#Soccer Stadium#Cupcake Shop
+2.6894255056595537#Other Great Outdoors#Theater
+2.1323211882521593#Other Great Outdoors#Italian Restaurant
+1.2461292244448774#Other Great Outdoors#Airport Terminal
+1.5572793614748393#Other Great Outdoors#Church
+2.421258653785907#Other Great Outdoors#Garden
+7.900279448367675#Other Great Outdoors#Tennis Court
+2.109608785537041#Other Great Outdoors#Nightclub
+4.846515392533398#Other Great Outdoors#Science Museum
+1.3821448095963906#Other Great Outdoors#College Residence Hall
+2.0776043620421163#Other Great Outdoors#Sandwich Place
+2.9800795048715747#Other Great Outdoors#Sporting Goods Shop
+4.791275603666076#Other Great Outdoors#Castle
+3.5759686203544647#Other Great Outdoors#Light Rail
+3.238326780027958#Other Great Outdoors#Ramen /  Noodle House
+2.4000747125953743#Other Great Outdoors#Mexican Restaurant
+2.5502509894004564#Other Great Outdoors#Movie Theater
+3.1969209435570245#Other Great Outdoors#Theme Park
+2.114891499141803#Other Great Outdoors#Farmers Market
+5.604492578337748#Other Great Outdoors#Pool
+1.5402770044908147#Other Great Outdoors#University
+2.2163957711718103#Other Great Outdoors#Cupcake Shop
+3.409556568389961#Theater#Italian Restaurant
+1.9875528346065643#Theater#Airport Terminal
+3.8148852393466255#Theater#Garden
+12.591070007355437#Theater#Tennis Court
+3.3695208127014156#Theater#Nightclub
+7.670575526941645#Theater#Science Museum
+2.1985677529194043#Theater#College Residence Hall
+3.320951406748191#Theater#Sandwich Place
+4.770728517266671#Theater#Sporting Goods Shop
+7.624975804864211#Theater#Castle
+5.477352623891797#Theater#Light Rail
+5.181481861178857#Theater#Ramen /  Noodle House
+3.8404482642733577#Theater#Mexican Restaurant
+4.089529936580686#Theater#Movie Theater
+5.088144261795888#Theater#Theme Park
+8.893137928687338#Theater#Pool
+3.5452486938318595#Theater#Cupcake Shop
+0.48344895457874326#Italian Restaurant#Airport Terminal
+0.5994274538309656#Italian Restaurant#Church
+0.9224567552781271#Italian Restaurant#Garden
+3.008359172662665#Italian Restaurant#Tennis Court
+0.8199381446535794#Italian Restaurant#Nightclub
+1.8823928936613104#Italian Restaurant#Science Museum
+0.5321180952005213#Italian Restaurant#College Residence Hall
+0.8067233228433185#Italian Restaurant#Sandwich Place
+1.1508070372023336#Italian Restaurant#Sporting Goods Shop
+1.8568691794947518#Italian Restaurant#Castle
+1.3189716253304007#Italian Restaurant#Light Rail
+1.259626479461663#Italian Restaurant#Ramen /  Noodle House
+0.9346009724717342#Italian Restaurant#Mexican Restaurant
+0.9867317329382174#Italian Restaurant#Movie Theater

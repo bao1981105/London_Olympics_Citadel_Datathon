@@ -1,0 +1,37 @@
+0.8151899201146409#Italian Restaurant#Farmers Market
+2.1317593199050493#Italian Restaurant#Pool
+0.5941554331874183#Italian Restaurant#University
+1.2207254928350693#Italian Restaurant#Theme Park
+0.8686136970477373#Italian Restaurant#Cupcake Shop
+29.392446264600515#Airport Terminal#Garden
+19.050319328085664#Airport Terminal#Church
+2.5946348442996436#Garden#Church
+4.002740353056182#Garden#Mexican Restaurant
+13.198325321865045#Garden#Tennis Court
+3.520960119362322#Garden#Farmers Market
+4.2471341009044545#Garden#Movie Theater
+3.467292516177674#Garden#Sandwich Place
+7.996692904720304#Garden#Castle
+8.106765330776756#Garden#Science Museum
+5.401981953113766#Garden#Ramen /  Noodle House
+9.623242335167081#Garden#Pool
+4.9915618399712836#Garden#Sporting Goods Shop
+2.5871527823534244#Garden#University
+3.516346979602989#Garden#Nightclub
+5.931128182268271#Garden#Light Rail
+5.335341236212097#Garden#Theme Park
+3.704870653475386#Garden#Cupcake Shop
+2.3119549778362543#Garden#College Residence Hall
+2.590020522068655#Church#Mexican Restaurant
+8.475249905209289#Church#Tennis Court
+2.747876834005282#Church#Movie Theater
+2.2350952529343253#Church#Sandwich Place
+5.129679679020355#Church#Castle
+5.2022359457669785#Church#Science Museum
+5.973392084053021#Church#Pool
+3.193150238980389#Church#Sporting Goods Shop
+2.2720191616336805#Church#Nightclub
+3.692204102530594#Church#Light Rail
+3.4273523342245045#Church#Theme Park
+2.3844000276424837#Church#Cupcake Shop
+1.488555055723125#Church#College Residence Hall
